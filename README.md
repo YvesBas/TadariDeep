@@ -17,6 +17,6 @@ the folder python_sources/weights contains 2 experimental classifiers:
 
 There were not properly benchmarked against Birdnet but on a few tests, we found that Birdnet performed better on high SNR songs, but less on calls or low SNR songs.
 
-Reference sound used are 90% Xeno-Canto and the remaining sounds labelled by Stuart Newson (BTO) and me.
+Training data used are 90% Xeno-Canto and the remaining sounds labelled by Stuart Newson (BTO) and me through Tadarida-L
 
 Current authors: Didier Bas (main developper) and Yves Bas (mainly involved in design and testing)
