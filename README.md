@@ -13,7 +13,7 @@ the folder python_sources/weights contains 2 experimental classifiers:
 
 - 7680-041 : targeting 13 french common urban bird species (moderate performance)
 
-- 11240-085 : targeting common nocturnal french birds (both breeding and migrants), with a rather good performance but still highly perfectible! Noticeably bad on amphibians and crickets on which we are waiting for labelled files!
+- 11240-085 : targeting common nocturnal french birds (both breeding and migrants), with a rather good performance but still highly perfectible! Probably very bad on amphibians and crickets on which we are waiting for labelled files!
 
 There were not properly benchmarked agains Birdnet but on a few tests, we found that Birdnet performed better on high SNR songs, but less on calls or low SNR songs.
 
