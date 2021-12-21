@@ -1,0 +1,4 @@
+1001;21 12 15 18 44 46;in2p3;0;mobilenet;2;4;50;500;128;512;c:/tadarideeptest/oiseaux1000;16;c:/tadarideeptest/jeutest2100;8;2;24.2;25.0;25.0;0.0
+1001;21 12 15 18 48 31;in2p3;0;mobilenet;2;4;50;500;128;512;c:/tadarideeptest/oiseaux1000;16;c:/tadarideeptest/jeutest2100;8;2;24.2;25.0;25.0;0.0
+1001;21 12 15 18 53 17;in2p3;0;mobilenet;2;4;50;500;128;512;c:/tadarideeptest/oiseaux1000;16;c:/tadarideeptest/jeutest2100;8;2;24.2;25.0;25.0;0.0
+1001;21 12 15 18 55 54;in2p3;0;mobilenet;2;4;50;500;128;512;c:/tadarideeptest/oiseaux1000;16;c:/tadarideeptest/jeutest2100;8;2;24.2;25.0;25.0;0.0
