@@ -6,7 +6,7 @@ For french speakers and end users of deep_predict (=getting predictions from new
 
 the folder python_sources/weights contains 2 experimental classifiers:
 
-- 7680-041 : targeting 13 urban bird species (moderate performance)
+- 7680-041 : targeting 13 french common urban bird species (moderate performance)
 
 - 11240-085 : targeting common nocturnal french birds (both breeding and migrants), with a rather good performance but still highly perfectible! Noticeably concerning amphibians and crickets
 
