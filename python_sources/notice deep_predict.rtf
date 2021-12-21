@@ -1,0 +1,136 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset0 Book Antiqua;}}
+{\colortbl ;\red0\green0\blue255;}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\sl276\slmult1\f0\fs28\lang12 16/11/2021\par
+
+\pard\sl276\slmult1\qc\b\fs40 Notice TadaridaL / Deep Predict\par
+
+\pard\sl276\slmult1\b0\fs28\par
+\b _______________________________________________________________\par
+\ul\fs32\par
+A) Installation :\par
+\ulnone\b0\fs28\par
+\par
+\ul\f1 I\f0  - Installer d'abord TadaridaL.\par
+\ulnone\b\fs24 [TODO : demander \'e0 Yves d'inclure sa proc\'e9dure d'installation de TadaridaL]\par
+[TODO : ne pas oublier d'inclure dans cette livraison la version de TadaridaL adapt\'e9e \'e0 deep_predict et aussi un fichier config.ini adapt\'e9 : pour le cas de besoin de r\'e9cup\'e9rer ces fichiers, je les mets dans le r\'e9pertoire pdp (dans un sous-r\'e9pertoire "acopier_sur_tadaridal"\par
+\b0\fs28\par
+\par
+\ul\f1 II\f0  - Installer packages de Python et deep_predict\par
+\ulnone\fs24\par
+1) Copier donc le contenu du r\'e9pertoire fourni pdp (avec ses sous-r\'e9pertoires) dans le r\'e9pertoire souhait\'e9 du poste windows.\par
+\par
+2) taper python qui doit indiquer la version de python (3.7.9 : id\'e9al)\par
+si ne fonctionne pas : ajouter le r\'e9pertoire dans lequel se trouve python.exe dans la variable d'environnement path et red\'e9marrer l'ordinateur\par
+Si pas de python install\'e9 : installer une version de python sup\'e9rieure ou \'e9gale \'e0 3.7.9 et rendre python accessible dans le r\'e9pertoire voulu comme indiqu\'e9 ci-dessus.\par
+\par
+3) taper :\par
+pip show pip\par
+si ne r\'e9pond pas : trouver le r\'e9pertoire dans lequel est pip.exe (sous-r\'e9pertoire du r\'e9pertoire d'install de python) et l'ajouter \'e0 la variable d'environnement path\par
+\par
+4) pip show virtualenv\par
+si ne trouve pas :\par
+pip install virtualenv\par
+\par
+5) taper :\par
+virtualenv vetest5\par
+\par
+6) activer l'environnement virtuel cr\'e9\'e9 :\par
+.\\vetest5\\Scripts\\activate\par
+(la prochaine fois : passer directement \'e0 cette \'e9tape 6)\par
+\par
+7) installations de packages python :\par
+pip install tensorflow\par
+pip install matplotlib\par
+pip install pillow\par
+pip install scipy==1.4.1 (important de forcer cette version)\par
+\par
+8) petit test pour v\'e9rifier l'installation :\par
+python deep_predict.py jeutest1 1\par
+\par
+si un probl\'e8me de dll manquante (msv...)\par
+alors, installer :\par
+vc_redist.x64.exe \par
+trouv\'e9 sur la page\par
+{{\field{\*\fldinst{HYPERLINK https://support.microsoft.com/en-gb/help/2977003/the-latest-supported-visual-c-downloads }}{\fldrslt{https://support.microsoft.com/en-gb/help/2977003/the-latest-supported-visual-c-downloads\ul0\cf0}}}}\f0\fs24\par
+et red\'e9marrer\par
+\fs28\par
+\i\fs24 Remarque : l'environnement virtuel n'est pas toujours indispensable, mais il permet d'\'e9viter de subir des incompatibilit\'e9s avec d'autres versions install\'e9es et aussi de perturber d'autres logiciels install\'e9s avec d'autres versions ou packages de Python.\par
+\i0\fs28\par
+\par
+\b _______________________________________________________________\par
+\ul\fs32\par
+B) Utilisation\par
+\ulnone\b0\fs28\par
+\par
+\fs24 Pour obtenir des pr\'e9dictions d'esp\'e8ces d'oiseaux parmi la liste \par
+sur des fichiers ".wav" \'e0 partir de deep_predict, il faut proc\'e9der ainsi :\par
+\fs28\par
+\ul\fs24 1\'e8re \'e9tape : lancer TadaridaL\par
+\ulnone Avoir pr\'e9par\'e9 un r\'e9pertoire contenant les fichiers ".wav", qui ne d\'e9passent pas  50 secondes. \b [voir avec Yves si on r\'e9duit cette limite]\b0 , il faut lancer TadaridaL.\par
+Il faut conserver les param\'e8tres de l'installation pr\'e9sentes dans config.ini.\par
+\par
+Dans la fen\'eatre de TadaridaL, il suffit de s\'e9lectionner le r\'e9pertoire des fichiers .wav.\par
+Puis cliquer sur le bouton : "Deep predict".\par
+\par
+A la fin du traitement par TadaridaL, le sous-r\'e9pertoire ima2 du r\'e9pertoire des fichiers wav, contient toutes les images ".jpg" correspondant chacune \'e0 un \'e9v\'e9nement sonore interpr\'e9table par deep_predict.\par
+Car071405-2014-Pass1-C2-010284_0_20140607_212354_155--1--680--15--6201--41.jpg\par
+Le nom de chaque fichier est compos\'e9 ainsi :\par
+[nom du fichier wav]--[numero d'ordre du cri ou \'e9v\'e9nement sonore d\'e9tect\'e9 par Tadarida]--[intensit\'e9 sonore maximale du cri]--[dur\'e9e en ms]--[fr\'e9quence en kHz]--[start-time en ms].jpg\par
+\fs28\par
+\ul\fs24 2\'e8me \'e9tape : lancer deep_predict\par
+\ulnone Ce sous-r\'e9pertoire ima2 peut \'e9videmment \'eatre d\'e9plac\'e9 et/ou renomm\'e9.\par
+\ul\par
+\ulnone Dans contenant l'installation des packages python et de deep_predict, il faut taper :\par
+python deep_predict.py [repertoire des images .jpg] [n\'b0 classifier]\par
+ou :\par
+python deep_predict.py [repertoire des images .jpg] [n\'b0 classifier][n\'b0 sous-cas] si plusieurs lignes du fichier classifiers.csv r\'e9f\'e9rencent le m\'eame classifier avec des param\'e8tres diff\'e9rents\par
+\par
+Le r\'e9pertoire d'installation de deep_predict contient aussi les fichiers suivants : \par
+classifiers.csv : chaque ligne de classifiers.csv r\'e9f\'e9rence donc un classifier utilisable avec :\par
+
+\pard\li720\sl276\slmult1\fs20 en colonne 1 : le num\'e9ro du classifier (correspond \'e0 la colonne numtest de resultats_sons.csv)\par
+en colonne 2 : un num\'e9ro de sous-cas permettant de distinguer plusieurs utilisations possibles du m\'eame classifier.\par
+en colonne 3 : la ou les valeurs de nb_epochs choisi (possibilit\'e9 d'avoir des classifiers \'e9clat\'e9s par bandes de fr\'e9quence)\par
+en colonne 4 : le num\'e9ro de la base de r\'e9f\'e9rence\par
+Dans les colonnes suivantes, sont pr\'e9sents d'autres param\'e8tres utilis\'e9s par deep_predict.py qui doit conna\'eetre ces param\'e8tres utilis\'e9s lors de la construction du classifier.\par
+
+\pard\sl276\slmult1\fs24 Un fichier : classes[num\'e9ro de la base].csv. Il contient  au moins une colonne contenant toutes les classes du classifier et \'e9ventuellement une deuxi\'e8me colonne permettant des correspondances de classes vers une ou des classes regroupant plusieurs classes (comme Otherbirds), voire une troisi\'e8me permettant un deuxi\'e8me regroupement possible (voir fichiers de sortie).\par
+Le sous-r\'e9pertoire weights doit contenir les fichiers weights pour les valeurs de nb_epochs choisies (weights[num. classifier]-[nb_epochs cadr\'e9 sur 3 chiffres].hdf5).\par
+\ul\b\fs28\par
+\fs24 Fichiers de sortie :\par
+\ulnone\b0 Les fichiers de sortie suivant sont cr\'e9\'e9s par deep_predict.py dans le sous-r\'e9pertoire txt :\par
+\par
+\b Fichier de sortie principal : \par
+predictions_[numero classifier]_[nbepoch]_[num. base]_[r\'e9pertoire].csv\par
+\b0 Ce fichier contient autant de lignes que d'\'e9v\'e9nements sonores trait\'e9s (correspondant aux images jpg).\par
+Dans chacune de ces lignes apparaissent la classe pr\'e9dite, avec le pourcentage de confiance, puis autant de colonnes que de classes/esp\'e8ces appartenant \'e0 la base de r\'e9f\'e9rence du classifier utilis\'e9, et pour chacune de celle-ci le pourcentage de confiance.\par
+\par
+\fs22 Autres fichiers de sortie :\par
+resume_par_cri[...] : ce fichier donne pour chacun des cris les 3 premi\'e8res esp\'e8ces pr\'e9dites avec leux taux de confiance.\par
+\i\fs20 A noter : pour ce fichier et les suivants ne sont pris en compte que les pr\'e9dictions sup\'e9rieures \'e0 un seuil minimum de 3%.\par
+\i0\fs28\par
+\fs20 On peut obtenir d'autres fichiers r\'e9sultats si des fichiers images sont pr\'e9fix\'e9s par un nom de classe attendue suivi de "--" (voir exemples dans sous-r\'e9pertoires jeutest2).\par
+Ceci peut \'eatre provoqu\'e9 en pr\'e9fixant ainsi les fichiers wav correspondant \'e0 une esp\'e8ce "attendue", mais aussi directement des jeux de fichiers ".jpg" permettant de comparer les performances de classifiers.\par
+\b\par
+\b0 bilan_cris_par_especes[...] contient alors des pourcentages pour chaque esp\'e8ce (pourcentages de fichiers jpg pour lesquels cette esp\'e8ce attendue a bien \'e9t\'e9 pr\'e9dite en premi\'e8re, deuxi\'e8me ou troisi\'e8me pr\'e9diction).\par
+\par
+bilan_cris_par_especes_regroupees[...] est produit si le fichier classes[...].csv contient en 2\'e8me colonne des noms de classe de regroupement (dans l'exemple install\'e9 : le fichier classes7250.csv propose pour toutes les esp\'e8ces d'oiseaux n'appartenant pas aux 18 esp\'e8ces "privil\'e9gi\'e9es" la m\'eame correspondance : Otherbirds\par
+\par
+bilan_cris_par_especes_deuxieme_regroupement[...] est produit si le fichier classes[...].csv contient une autre (3\'e8me) colonne d\'e9finissant d'autres regroupements.\par
+\par
+Enfin si le jeu de test contient plus d'une image par fichier wav (dans au moins un cas), les fichiers suivants peuvent \'eatre cr\'e9\'e9s :\par
+resume_par_wav[...] : ce fichier de r\'e9sultat  donne pour chacun des fichiers wav, les 3 premi\'e8res esp\'e8ces pr\'e9dites avec leux taux de confiance (en ne consid\'e9rant que des esp\'e8ces diff\'e9rentes provenant d'\'e9v\'e9nements sonores diff\'e9rents).\par
+\par
+Et si de plus, des classes attendues ont \'e9t\'e9 d\'e9finies, et des regroupements d'esp\'e8ces :\par
+
+\pard\sl240\slmult1 bilan_wav_par_espece[...]\par
+bilan_wav_par_especes_regroupees[...]\par
+bilan_wav_par_espece_deuxieme_regroupement[...]\par
+
+\pard\sl360\slmult1\fs28\par
+
+\pard\sl276\slmult1\par
+\par
+}
+ 
