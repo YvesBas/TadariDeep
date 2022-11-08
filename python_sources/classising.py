@@ -312,7 +312,7 @@ for j in range(0,finboucle):
 			if len(tabj)>2:
 				classe_attendue = tabj[0]
 				if classe_attendue in labels:
-					print("classat = "+classe_attendue)
+					#print("classat = "+classe_attendue)
 				else:
 					print(classe_attendue+" pas dans labels")
 					continue
