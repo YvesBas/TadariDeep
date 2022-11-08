@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-numtest = 1001
-numoiseaux = 1000
-jeutest = 1500
+numtest = 1
+numoiseaux = 1
+jeutest = 1
 nbre_bases = 1
-baseprog = "c:/tadarideeptest"
+baseprog = "C:/Users/yvesb/Documents/TadariDeep/TadariDeep/python_sources"
+
 #baseprog = "/sps/mnhn/vigiechiro/vigiechiro-prod-datastore/traitements/test5"
 
 moteur = 2
-nbepochs = 2
-batch_size = 4
+nbepochs = 20
+batch_size = 8
 nb_steps_max = 50
 dimx  = 500
 dimy  = 128

@@ -2,9 +2,9 @@ import librosa
 import os
 import soundfile
 
-RSDB="C:/Users/yvesb/Documents/www/SampleV1A" #dossier input
-RSDBdirs=["C:/Users/yvesb/Documents/www/SampleV1A_R48"] #dossiers output
-SRs=[4800] #liste des taux d echantillonnage a realiser, doit correspondre dans l'ordre aux dossiers input
+RSDB="C:/Users/yvesb/Documents\TadariDeep/Imitation_calls/jeutest1" #dossier input
+RSDBdirs=["C:/Users/yvesb/Documents\TadariDeep/Imitation_calls_resampled/jeutest1"] #dossiers output
+SRs=[44100] #liste des taux d echantillonnage a realiser, doit correspondre dans l'ordre aux dossiers input
 print('input success')
 
 ListWav=[os.path.join(dp, f) for dp, dn, filenames in os.walk(RSDB) for f in filenames if os.path.splitext(f)[1] == '.wav']

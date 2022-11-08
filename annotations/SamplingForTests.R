@@ -1,6 +1,6 @@
 library(data.table)
 
-Dir="C:/Users/yvesb/Documents/Tadarida/Dbas_deepL/SampleV2/Res2H2"
+Dir="C:/Users/yvesb/Documents/Tadarida/Dbas_deepL/SampleV2/PasEncore220310"
 
 NperSlot=25
 
