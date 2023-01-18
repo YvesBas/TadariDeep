@@ -1,4 +1,4 @@
-##### script from DAVID FUNOSAS, Thanks to him!! #####
+##### original script from DAVID FUNOSAS, Thanks to him!! #####
 
 library(dplyr)
 
