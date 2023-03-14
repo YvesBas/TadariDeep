@@ -10,7 +10,7 @@ ColFirstClass=10
 Thres=0
 
 PredFs=list.files(paste0(PredD,"/txtpred/"),pattern="predictions_",full.names=T,recursive=T)
-print(paste0(PredD,"/rwb.txt"))
+#print(paste0(PredD,"/rwb.txt"))
 rwbs=fread(paste0(PredD,"/rwb.txt"))
 
 print(head(rwbs))
@@ -19,24 +19,24 @@ testV2=nchar(rwbs$V2)
 uV2=unique(rwbs$V2)
 uV2=gsub("G_","",uV2)
 
-print("L19")
+#print("L19")
 
 for (i in 1:length(PredFs)){
   
   
-  print("L24")
-  print(PredFs[i])
+  #print("L24")
+  #print(PredFs[i])
   PredF=PredFs[i]
   Pred=fread(PredF)
   
   #if(sd(testV2)!=0){
   
-  print("L34")
-  print(c(Pred$`fichier wav`[1],uV2))
+  #print("L34")
+  #print(c(Pred$`fichier wav`[1],uV2))
   PositionF1=str_order(c(uV2,Pred$`fichier wav`[1]))
-  print(PositionF1)
+  #print(PositionF1)
   
-  print(uV2[PositionF1[length(PositionF1)]-1])
+  #print(uV2[PositionF1[length(PositionF1)]-1])
   rwb=subset(rwbs,rwbs$V2==paste0("G_",uV2[PositionF1[length(PositionF1)]-1])) 
   
   # }else{
@@ -50,8 +50,8 @@ for (i in 1:length(PredFs)){
   
   InfoDSE=tstrsplit(Pred$`fichier jpg`,split="--")
   
-  print("L45")
-  print(head(Pred$`fichier jpg`))
+  #print("L45")
+  #print(head(Pred$`fichier jpg`))
   
   
   Pred$Amp=as.numeric(InfoDSE[[3]])
@@ -62,20 +62,20 @@ for (i in 1:length(PredFs)){
   Pred$fmin=as.numeric(InfoDSE[[7]])
   Pred$fmax=as.numeric(InfoDSE[[8]])
 
-  print("L57")
-  print(head(Pred$t1))
+  #print("L57")
+  #print(head(Pred$t1))
   
-  print("L60")
-  print(head(rwb))
+  #print("L60")
+  #print(head(rwb))
   
   testR=match(Pred$'fichier wav',rwb$V1)
   Pred$t1=Pred$t1+rwb$V3[testR]
   Pred$t2=Pred$t2+rwb$V3[testR]
 
-  print("L63")
-  print(head(Pred$t1))
+  #print("L63")
+  #print(head(Pred$t1))
   
-  print(head(Pred$Amp))  
+  #print(head(Pred$Amp))  
   #plot(as.numeric(InfoDSE[[5]]),as.numeric(InfoDSE[[8]]))
   #plot(as.numeric(InfoDSE[[5]]),as.numeric(InfoDSE[[7]]))
   #plot(as.numeric(InfoDSE[[5]]),as.numeric(gsub(".jpg","",InfoDSE[[9]])))
@@ -85,29 +85,29 @@ for (i in 1:length(PredFs)){
   
   PredBackup=Pred
   
-  print("L66")
+  #print("L66")
   Markers=subset(Pred,select=c("classe predite","t1","t2","fmin","fmax"))
-  print(dim(Markers))
+  #print(dim(Markers))
   
-  print("L68")
-  print(nrow(Pred))
+  #print("L68")
+  #print(nrow(Pred))
   MarkersSimplified=Markers[0,]
   while(nrow(Pred)>0){
-    class(Pred$t1)
-    print(Pred$t1)
-    print(WindowMax)
+    #class(Pred$t1)
+    #print(Pred$t1)
+    #print(WindowMax)
     Min=subset(Pred,Pred$t1<Pred$t1[1]+WindowMax)  
     Mout=subset(Pred,Pred$t1>=Pred$t1[1]+WindowMax)  
-    print(dim(Min))
+    #print(dim(Min))
     #print(ClassList)
     Mprob=subset(Min,select=ClassList)
-    print("L75")
-    print(dim(Mprob))
+    #print("L75")
+    #print(dim(Mprob))
     MaxparFich=max(Mprob)  
     #find the most probable species in each file
     CallScores=apply(Mprob,1,max)
     CallMax=which(CallScores==MaxparFich)
-    print(CallMax)
+    #print(CallMax)
     SpSel=apply(Mprob[CallMax,],1,which.max)
     SpSelName=ClassList[SpSel]
     print(paste(SpSelName,MaxparFich))
@@ -130,7 +130,7 @@ for (i in 1:length(PredFs)){
   boxplot(MarkersSimplified$fmin~substr(MarkersSimplified$`classe predite`,1,6),las=2)
   
   names(MarkersSimplified)=c("label","t1","t2","f1","f2")
-  print("L101")
+  #print("L101")
   write.audacity(MarkersSimplified,gsub(".csv",".txt",paste0(dirname(dirname(PredF))
                                                              ,"/marqueurs/G_"
                                                              ,uV2[PositionF1[length(PositionF1)]-1]
