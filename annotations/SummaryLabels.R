@@ -1,8 +1,12 @@
 library(data.table)
 library(seewave)
 
-Dir="C:/Users/yvesb/Downloads/GSampleV3_Part1/PourElodie230102"
-Dir="C:/Users/yvesb/Documents/Tadarida/Pablo/annotations"
+Dir=commandArgs(trailingOnly = T) #take the argument of Rscript command as the input directory
+
+#Dir="C:/Users/yvesb/Downloads/GSampleV3_Part1/PourElodie230102"
+#Dir="C:/Users/yvesb/Documents/Tadarida/Pablo/annotations230222"
+#Dir="C:/Users/yvesb/Documents/Tadarida/Elodie/annotations"
+
 
 FilesWav=list.files(Dir,pattern=".wav$",full.names=T)
 

@@ -1,3 +1,5 @@
+library(data.table)
+
 FilePredictions=file.choose()
 
 PredictionAll=read.csv2(FilePredictions)

@@ -1,3 +1,5 @@
+library(data.table)
+
 TrainingSetDir=choose.dir()
 SourceDir=choose.dir()
 

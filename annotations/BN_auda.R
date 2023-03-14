@@ -1,5 +1,5 @@
 library(data.table)
-BNinitDir="C:/Users/yvesb/Documents/Tadarida/Dbas_deepL/SampleV3/bnauda_p1"
+BNinitDir="C:/Users/yvesb/Downloads/GSampleV3part2/bnauda"
 
 
 BNnew=paste0(BNinitDir,"_auda")

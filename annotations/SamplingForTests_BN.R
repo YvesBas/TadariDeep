@@ -1,13 +1,13 @@
 library(data.table)
 
 Dir="C:/Users/yvesb/Downloads/GSampleV3_Part1/bnauda_p1_auda"
-Dir="C:/Users/yvesb/Documents/Tadarida/Dbas_deepL/SampleV3/tdaudatxt_GSampleV3_Part1_premier_test"
+Dir="C:/Users/yvesb/Downloads/GSampleV3part2/tdauda"
 
 #Dir="C:/Users/yvesb/Downloads/SampleV2_P2H2/BN"
-TableSpeciesSel=fread("speciesBN_2022-09-17_sel.csv")
-TableSpeciesSel=NA
-RemainDir="C:/Users/yvesb/Downloads/GSampleV3_Part1/PA_221107"
-#RemainDir=NA
+TableSpeciesSel=fread("species_2022-12-01_sel.csv")
+#TableSpeciesSel=NA
+RemainDir="C:/Users/yvesb/Downloads/GSampleV3_Part1/PA_221124"
+RemainDir=NA
 
 
 
@@ -38,11 +38,18 @@ for (i in 1:length(Files)){
 dataAll=rbindlist(datalist)
 
 if(grepl(" - ",dataAll$V3[1])){
+  if(tstrsplit(dataAll$V3,split=" ")[[2]][1]=="-"){
+    dataAll$species=tstrsplit(dataAll$V3,split=" ")[[1]]
+    dataAll$confiance=as.numeric(tstrsplit(dataAll$V3,split=" ")[[3]])/100
+    hist(dataAll$confiance)  
+    dataAll$frequence=0
+  }else{
   dataAll$species=tstrsplit(dataAll$V3,split=" ")[[1]]
   dataAll$confiance=as.numeric(tstrsplit(dataAll$V3,split=" ")[[2]])/100
 hist(dataAll$confiance)
     dataAll$frequence=as.numeric(tstrsplit(dataAll$V3,split=" ")[[4]])
     hist(dataAll$frequence)
+  }
 }else{
   dataAll$species=dataAll$V3
   dataAll$confiance=dataAll$V4
@@ -50,9 +57,17 @@ hist(dataAll$confiance)
 
 table(dataAll$species)
 test=as.data.frame(table(dataAll$species))
+scoremax=aggregate(dataAll$confiance,by=list(dataAll$species),max)
+test=merge(test,scoremax,by.x="Var1",by.y="Group.1")
+
 fwrite(test,paste0("species_",Sys.Date(),".csv"),sep=";")
 ClassConf=round(dataAll$confiance*10)
 table(ClassConf)
+
+scoremax2=aggregate(dataAll$confiance,by=list(dataAll$file,dataAll$species),max)
+fwrite(scoremax2,paste0("scores_",Sys.Date(),".csv"),sep=";")
+
+
 #boxplot(dataAll$V4~dataAll$species,las=2)
 #table(dataAll$species,ClassConf)[100:124,]
 
@@ -79,7 +94,7 @@ if(is.na(TableSpeciesSel)){
   SpeciesMax=Synthesis$Group.1
   
 }else{
-  SpeciesMax=subset(TableSpeciesSel$Var1,TableSpeciesSel$Sel=="x")
+  SpeciesMax=subset(TableSpeciesSel$Var1,TableSpeciesSel$sel=="x")
   
 }
 SpeciesSel=vector()

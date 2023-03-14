@@ -2,8 +2,8 @@ import librosa
 import os
 import soundfile
 
-RSDB="C:/Users/yvesb/Documents\TadariDeep/Imitation_calls/jeutest1" #dossier input
-RSDBdirs=["C:/Users/yvesb/Documents\TadariDeep/Imitation_calls_resampled/jeutest1"] #dossiers output
+RSDB="D:/PourPabloConc" #dossier input
+RSDBdirs=["D:\PourPabloResampled"] #dossiers output
 SRs=[44100] #liste des taux d echantillonnage a realiser, doit correspondre dans l'ordre aux dossiers input
 print('input success')
 

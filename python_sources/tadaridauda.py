@@ -4,10 +4,10 @@ import shutil
 import time
 import random
 
-rep0 = "c:/sons"
-seuil = 10
+rep0 = "c:/Users/yvesb/Documents/TadariDeep/TadariDeep/python_sources/txt"
+seuil = 0
 taillepetitwav = 10
-fichpred = rep0 + "/predictions.csv"
+fichpred = rep0 + "/predictions_390513_72_390395_CUsersyvesbDocumentsmnhnpiafsLPOtest221121ima2short2.csv"
 
 sep = ";"
 sept = "\t"

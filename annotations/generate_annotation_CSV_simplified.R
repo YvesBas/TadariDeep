@@ -2,7 +2,9 @@
 
 library(dplyr)
 
-Dir= "C:/Users/yvesb/Documents/Tadarida/Elodie/Janvier2023/"
+Dir= "C:/Users/yvesb/Documents/Tadarida/Pablo/annotations230206"
+DirPred= "C:/Users/yvesb/Documents/Tadarida/Elodie/Janvier2023/"
+DirPred=NA
 
 can_convert_to_numeric <- function(x) {
   all(grepl('^(?=.)([+-]?([0-9]*)(\\.([0-9]+))?)$', x, perl = TRUE))  
@@ -13,6 +15,9 @@ annotations <- data.frame()
 files=list.files(Dir,full.names=T,pattern=".txt$",recursive=T)
 
 files=subset(files,!grepl("BirdNET.results",basename(files)))
+
+files=subset(files,basename(dirname(files))!="corrections")
+
 
 n_files <- length(files)
 
@@ -131,10 +136,21 @@ annotations <- annotations %>%
 annotations$file=gsub(".txt","",basename(files)[annotations$recording_id])
 
 print(unique(annotations$file))
+table(annotations$label,annotations$confidence_level)
+
 
 #Writing local CSV file
 annotations_file_name <- file.path(paste0(Dir, "/annotations.csv"))
 write.csv(x=annotations, file=annotations_file_name, row.names = FALSE)
+
+
+#purging previous annotations
+if(!is.na(DirPred)){
+filesPred=list.files(DirPred,full.names=T,pattern=".txt$",recursive=T)
+
+annotationsNew=subset(annotations,!(annotations$file %in% gsub(".txt","",basename(filesPred))))
+write.csv(x=annotationsNew, file=file.path(paste0(Dir, "/annotationsNew.csv")), row.names = FALSE)
+}
 
 #Removing unneeded variables
 rm(conn, file_name, final_time, i, initial_time, j, label, label_parts, line1, line2, linn, max_frequency, min_frequency, confidence_level, code_n_ind, recording_id, sound_type, vocalization_type)

@@ -1,0 +1,1398 @@
+Lancement Detec : 12:37:19:001
+Detec passe ici 1 
+Detec passe ici 2 
+Detec _wavPath = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie
+Detec _imagePath = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima
+creation de repima = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima
+Detec passe ici 3 
+detec : deepmode = true
+creation de repima2 = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2
+detec->IThread=0
+LINWIN =  1
+VERQT =  5
+_timeExpansion = 1
+_wathPath=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie     _txtPath=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie/txt
+dtt modefreq=2
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234303_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:19:006
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3783
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234303_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 3783  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234303_000--0--884--20--4478--0--2756--7235--51.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+dcdi ima width = 3783  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234303_000--1--805--10--1378--0--172--2411--593.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 3783  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234303_000--3--880--22--3100--187--861--7924--171.png
+dcdi debut - callnumber=4
+dcdi ima width = 3783  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234303_000--4--873--15--3617--209--2756--6201--931.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+End:12:37:19:315
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234307_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:19:315
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234307_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 8
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234307_000--0--1090--10--4478--0--3273--6718--33.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 16
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234307_000--4--965--16--2411--1369--172--4478--62.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:12:37:19:519
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234313_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:19:519
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2763
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234313_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234313_000--1--1712--31--4995--0--1550--5512--11.png : point maitre trop pres des bords
+dcdi debut - callnumber=2
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234313_000--2--1110--17--4995--129--1550--6546--419.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:12:37:19:720
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234322_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:19:720
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 4790
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234322_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 4790  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 33
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234322_000--0--1300--27--1205--0--172--7751--64.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+dcdi ima width = 4790  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 51
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 51
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 51
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234322_000--1--2976--44--2411--974--172--8785--39.png
+dcdi debut - callnumber=2
+dcdi ima width = 4790  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 24
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 24
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 24
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234322_000--2--1704--21--5684--1465--1894--8957--274.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+dcdi ima width = 4790  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234322_000--4--1164--9--4995--3123--516--8268--178.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:12:37:20:032
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:20:032
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 5170
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--0--1314--12--2411--0--1722--8268--583.png
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--3--1566--14--1722--228--172--7924--71.png
+dcdi debut - callnumber=4
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--4--1750--10--861--501--172--1378--233.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--7--760--12--1722--822--689--2756--27.png
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--9--2479--15--4651--1684--689--8441--65.png
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--11--1374--10--4478--1742--1722--5857--593.png
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=13
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--13--1300--18--5340--2347--4306--7579--96.png
+dcdi debut - callnumber=14
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--14--1679--10--1033--2689--172--2583--166.png
+dcdi debut - callnumber=15
+dcdi ima width = 5170  lyi = 128
+dcdi milieu - callnumber = 15
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 11
+dcdi suite 1 - callnumber = 15
+dcdi suite 2 - callnumber = 15
+dcdi suite 3 - callnumber = 15
+dcdi suite 4 - callnumber = 15
+dcdi proche fin15
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234331_000--15--1680--9--1033--2710--172--2756--178.png
+dcdi debut - callnumber=16
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=17
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=18
+duree trop courte - image ima2 non enregistree !
+End:12:37:20:450
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:20:450
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 6892
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--0--1040--13--1550--0--172--2756--524.png
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--2--1775--33--2067--199--172--6201--138.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--5--1040--10--2583--2055--1033--7579--100.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--7--2380--24--2756--2213--344--6029--42.png
+dcdi debut - callnumber=8
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 33
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--8--1692--26--5167--2571--689--7407--65.png
+dcdi debut - callnumber=9
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--9--872--10--3789--2635--3100--4823--100.png
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--12--1735--23--2583--3722--172--6373--378.png
+dcdi debut - callnumber=13
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 9
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234337_000--13--947--10--5684--4942--2756--9302--366.png
+dcdi debut - callnumber=14
+duree trop courte - image ima2 non enregistree !
+End:12:37:20:931
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:20:931
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 5843
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 5843  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000--2--1212--14--3100--650--861--7235--71.png
+dcdi debut - callnumber=3
+dcdi ima width = 5843  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000--3--988--9--4134--719--2756--6373--178.png
+dcdi debut - callnumber=4
+dcdi ima width = 5843  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 33
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000--4--1491--27--4478--1412--2411--6373--38.png
+dcdi debut - callnumber=5
+dcdi ima width = 5843  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 52
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 52
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 52
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000--5--2335--40--3962--2231--172--8785--96.png
+dcdi debut - callnumber=6
+dcdi ima width = 5843  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234342_000--6--1015--11--3100--2280--2239--9474--735.png
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+End:12:37:21:346
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234351_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:21:346
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3553
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234351_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 3553  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234351_000--1--930--26--3789--79--2239--5512--175.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 3553  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234351_000--5--1125--12--4134--933--1033--5167--194.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+dcdi ima width = 3553  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234351_000--9--1391--17--6029--1332--516--8096--100.png
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=13
+duree trop courte - image ima2 non enregistree !
+End:12:37:21:601
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:21:601
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 6892
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 42
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--1--1345--31--3617--165--172--7235--102.png
+dcdi debut - callnumber=2
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 37
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 37
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 37
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--2--1249--31--516--267--172--1550--322.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 8
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--10--647--11--5857--591--5167--6373--29.png
+dcdi debut - callnumber=11
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 42
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--11--1905--33--5167--632--1722--8785--31.png
+dcdi debut - callnumber=12
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--12--893--14--2583--705--2067--5512--119.png
+dcdi debut - callnumber=13
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=14
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=15
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=16
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=17
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 17
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 8
+dcdi suite 1 - callnumber = 17
+dcdi suite 2 - callnumber = 17
+dcdi suite 3 - callnumber = 17
+dcdi suite 4 - callnumber = 17
+dcdi proche fin17
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--17--689--14--4651--928--689--5512--166.png
+dcdi debut - callnumber=18
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=19
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=20
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=21
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=22
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 22
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 21
+dcdi suite 1 - callnumber = 22
+dcdi suite 2 - callnumber = 22
+dcdi suite 3 - callnumber = 22
+dcdi suite 4 - callnumber = 22
+dcdi proche fin22
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--22--753--15--2067--1780--1722--5167--239.png
+dcdi debut - callnumber=23
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=24
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=25
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=26
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=27
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=28
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 28
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 49
+dcdi suite 1 - callnumber = 28
+dcdi suite 2 - callnumber = 28
+dcdi suite 3 - callnumber = 28
+dcdi suite 4 - callnumber = 28
+dcdi proche fin28
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--28--2443--34--5857--3030--172--8957--51.png
+dcdi debut - callnumber=29
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=30
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 30
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 35
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 35
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 35
+dcdi suite 1 - callnumber = 30
+dcdi suite 2 - callnumber = 30
+dcdi suite 3 - callnumber = 30
+dcdi suite 4 - callnumber = 30
+dcdi proche fin30
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--30--1324--30--5167--3387--1722--7235--220.png
+dcdi debut - callnumber=31
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=32
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=33
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=34
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=35
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=36
+dcdi ima width = 6892  lyi = 128
+dcdi milieu - callnumber = 36
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 61
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 61
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 61
+dcdi suite 1 - callnumber = 36
+dcdi suite 2 - callnumber = 36
+dcdi suite 3 - callnumber = 36
+dcdi suite 4 - callnumber = 36
+dcdi proche fin36
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234356_000--36--1405--48--4995--4469--172--7924--316.png
+dcdi debut - callnumber=37
+duree trop courte - image ima2 non enregistree !
+End:12:37:22:175
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:22:175
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 5599
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 48
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 48
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 48
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--1--2130--39--2928--341--516--6029--27.png
+dcdi debut - callnumber=2
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 7
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 7
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 7
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--2--711--9--2411--626--2067--4651--678.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--8--1330--15--2756--1706--172--5167--108.png
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--10--994--14--4651--1925--689--8613--404.png
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--12--1286--10--4995--2126--3100--8096--93.png
+dcdi debut - callnumber=13
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--13--1553--12--2411--3164--1033--3789--138.png
+dcdi debut - callnumber=14
+dcdi ima width = 5599  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234401_000--14--1146--16--3273--3921--2411--4651--104.png
+dcdi debut - callnumber=15
+duree trop courte - image ima2 non enregistree !
+End:12:37:22:593
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234407_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:22:593
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234407_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234407_000--1--752--10--4823--181--4306--5684--93.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+End:12:37:22:787
+Begin:Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234413_000.wav :  r:C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie   -   12:37:22:787
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234413_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234413_000--0--1198--16--4651--0--3617--5684--104.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234413_000--1--608--9--7062--327--3617--7751--178.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234413_000--3--977--22--4651--609--1894--6373--515.png
+dcdi debut - callnumber=4
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=C:\Users\yvesb\Documents\TadariDeep\TadariDeep\batch/sortie\ima2/Car650161_2022_Pass1_Z2_S4-MANAS2_20220703_234413_000--4--1842--27--689--759--172--1894--294.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+End:12:37:23:019
+End of treatments by Detec object : 12:37:23:019
