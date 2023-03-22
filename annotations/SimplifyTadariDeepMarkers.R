@@ -4,6 +4,11 @@ library(stringr)
 
 PredD=commandArgs(trailingOnly = T)
 
+if(length(PredD)==0){
+  PredD="C:/Users/yvesb/Downloads/temp/"
+  
+}
+
 #PredD="C:/Users/yvesb/Documents/TadariDeep/TadariDeep_batch/sortie230202/"
 WindowMax=5
 ColFirstClass=10
@@ -108,7 +113,7 @@ for (i in 1:length(PredFs)){
     CallScores=apply(Mprob,1,max)
     CallMax=which(CallScores==MaxparFich)
     #print(CallMax)
-    SpSel=apply(Mprob[CallMax,],1,which.max)
+    SpSel=apply(Mprob[CallMax[1],],1,which.max)
     SpSelName=ClassList[SpSel]
     print(paste(SpSelName,MaxparFich))
     Minsel=subset(Min,as.data.frame(Mprob)[,SpSel]>1)  
