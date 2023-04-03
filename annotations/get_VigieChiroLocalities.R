@@ -7,7 +7,8 @@ library(lubridate)
 mongo=fread("C:/Users/yvesb/Documents/Tadarida/Vigie-Chiro_scripts/Vigie-Chiro_scripts/mongos.txt"
             ,sep="$",h=F)
 test=F #T si base de test, F si base de prod
-FLabels="C:/Users/yvesb/Documents/Tadarida/Elodie/Fevrier2023_3/annotationsToBeChecked.csv"
+FLabels="C:/Users/yvesb/Documents/Tadarida/Elodie/Echantillon1&2_Sonothèque/annotationsToBeChecked.csv"
+FLabels="D:/PSIBIOM/annotationsToBeChecked.csv"
 
 
 

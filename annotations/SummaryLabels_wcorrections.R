@@ -4,10 +4,8 @@ library(dplyr)
 library(seewave)
 library(tuneR)
 
-Dir= "C:/Users/yvesb/Documents/Tadarida/Elodie/Echantillon1&2_Sonothèque"
-Dir= "D:/PSIBIOM"
+Dir= "C:/Users/yvesb/Documents/Tadarida/Elodie"
 PrePostTrigger=3 #nombre de secondes à ajouter aux chuncks avant-après
-CheckW=T
 
 can_convert_to_numeric <- function(x) {
   all(grepl('^(?=.)([+-]?([0-9]*)(\\.([0-9]+))?)$', x, perl = TRUE))  
@@ -16,13 +14,17 @@ can_convert_to_numeric <- function(x) {
 annotations <- data.frame()
 
 files=list.files(Dir,full.names=T,pattern=".txt$",recursive=T)
-filesW=list.files(Dir,full.names=T,pattern=".wav$",recursive=T,ignore.case=T)
-files=subset(files,gsub(".txt",".wav",files,ignore.case = T) %in% filesW)
 
-files=subset(files,!grepl(".txt.bak",files))
 files=subset(files,!grepl("BirdNET.results",basename(files)))
 
+files=subset(files,!grepl("_tdauda.txt",basename(files)))
+
+files=subset(files,!grepl("sounds_mnhn_so",basename(files)))
+
+files=subset(files,!grepl("_psibiom.txt",basename(files)))
+
 files=subset(files,!basename(dirname(files))=="ToBeChecked")
+
 
 filesCorr=subset(files,basename(dirname(files))=="corrections")
 
@@ -149,95 +151,5 @@ annotations$file=gsub(".txt","",basename(files)[annotations$recording_id])
 
 print(unique(annotations$file))
 
-annotationsI1=subset(annotations
-                     ,substr(as.character(annotations$label)
-                             ,nchar(as.character(annotations$label))-2
-                             ,nchar(as.character(annotations$label)))==" sp")
-table(annotationsI1$label)
-
-annotationsI2=subset(annotations,grepl("termin",annotations$label))
-table(annotationsI2$label)
-annotationsI2=subset(annotationsI2,grepl("nd",annotationsI2$label))
-table(annotationsI2$label)
-
-annotationsI3=subset(annotations,annotations$confidence_level==0)
-table(annotationsI3$label)
-
-annotationsI4=subset(annotations,grepl("on identif",annotations$label))
-table(annotationsI4$label)
-
-DirToBeChecked=paste0(Dir,"/ToBeChecked")
-dir.create(DirToBeChecked)
-
-
-annotationsI=rbind(annotationsI1,annotationsI2,annotationsI3,annotationsI4)
-annotationsI=annotationsI[order(annotationsI$file,annotationsI$initial_time),]
-annotationsIbackup=annotationsI
-ChunkFile=vector()
-TimeChunk=vector()
-j=0
-while(nrow(annotationsI)>0){
-  j=j+1
-  #for (i in 1:nrow(annotationsI))
-  filet=annotationsI$file[1]
-  print(filet)
-  #print(annotationsI$label[1])
-  #print(annotationsI$initial_time[1])
-  print(nrow(annotationsI))
-  print(length(ChunkFile))
-  
-  fileW=list.files(Dir,pattern=paste0(filet,".wav"),recursive=T,full.names=T)
-  fileW=fileW[order(nchar(fileW))][1]
-  #if(length(fileW)!=1){stop("file missing or doublon")}  
-  Wt=readWave(fileW)
-  DurWt=length(Wt@left)/Wt@samp.rate
-  annotationsSel=annotationsI[1,]
-  if(nrow(annotationsI)>1){
-    Tdiff=annotationsI$initial_time[2]-annotationsI$final_time[1]
-    if(annotationsI$file[1]!=annotationsI$file[2]){Tdiff=9999}
-    annotationsI=annotationsI[-1,]        
-    while(Tdiff<10){
-      #stop()
-      if(nrow(annotationsI)>1){
-        Tdiff=annotationsI$initial_time[2]-annotationsI$final_time[1]
-        if(annotationsI$file[1]!=annotationsI$file[2]){Tdiff=9999}
-        
-      }else{
-        Tdiff=999
-      }
-      annotationsSel=rbind(annotationsSel,annotationsI[1,])
-      annotationsI=annotationsI[-1,]
-    }
-  }else{
-    annotationsI=annotationsI[-1,]
-  }
-  ChunkDebut=max(0,min(annotationsSel$initial_time)-PrePostTrigger)
-  ChunkFin=min(DurWt,max(annotationsSel$final_time)+PrePostTrigger)
-  TimeChunk=c(TimeChunk,rep(ChunkDebut,nrow(annotationsSel)))
-  Wc=cutw(Wt,from=ChunkDebut,to=ChunkFin,output="Wave")
-  ChunkFilej=paste0(DirToBeChecked,"/",Sys.Date(),"_",j,".wav")
-  writeWave(Wc,filename=ChunkFilej,extensible=F) #ecrit le nouveau fichier wave
-  ChunkFile=c(ChunkFile,rep(basename(ChunkFilej),nrow(annotationsSel))) 
-  
-  #recompute time windows for the new file
-  annotationsSel$initial_time=annotationsSel$initial_time-ChunkDebut
-  annotationsSel$final_time=annotationsSel$final_time-ChunkDebut
-  annotationsSelAu=subset(annotationsSel,select=c("label","initial_time"
-                                                  ,"final_time","min_frequency"
-                                                  ,"max_frequency"))
-  #annotationsSelAu$min_frequency=round(annotationsSelAu$min_frequency)
-  #annotationsSelAu$max_frequency=round(annotationsSelAu$max_frequency)
-  names(annotationsSelAu)=c("label","t1","t2","f1","f2")
-  write.audacity(annotationsSelAu,gsub(".wav",".txt",ChunkFilej))
-  
-  
-}
-
-annotationsIbackup$fileNew=ChunkFile
-annotationsIbackup$debut_origine=TimeChunk
-
-
-#Writing local CSV file
-annotations_file_name <- file.path(paste0(Dir, "/annotationsToBeChecked.csv"))
-write.csv(x=annotationsIbackup, file=annotations_file_name, row.names = FALSE)
+fwrite(annotations,paste0(Dir,"/annotations.csv"),sep=";")
 

@@ -8,9 +8,8 @@ import time
 import glob
 import sys
 
-
 baseprog = os.getcwd()
-logfile = baseprog + "/logcrech2.log"
+logfile = baseprog + "/logcrech3.log"
 if os.path.exists(logfile):
 	os.remove(logfile)
 
@@ -106,16 +105,13 @@ if lep==1:
 	multifreq = False
 	nbre_bases = 1
 else:
-	if lep != 8 and lep != 12:
-		ecrirelog("nbre de valeurs du parametre nbepoch non compatible avec la version actuelle")
-		os._exit(0)
-	multifreq = True
-	nbre_bases = lep
+	print("version multifreq non maintenue")
+	sys._exit(0)
 	
 for i in range(0,lep):
 	try:
 		nep = int(tepochs[i])
-		if nep < 1 or nep > 200:
+		if nep < 1 or nep > 999:
 			ecrirelog("valeur incoherente pour le parametre nbepoch")
 			os._exit(0)
 	except:
@@ -139,7 +135,9 @@ if moteur < 1 or moteur > 3 or batch_size < 1 or batch_size > 64 or dimx < 100 o
 
 
 # ----------------------------------------------------------------------------------
+
 import tensorflow as tf
+
 from tensorflow import keras
 
 #from keras.applications.xception import Xception, preprocess_input
@@ -210,48 +208,8 @@ ecrirelog("---------------------------------------------------------------------
 leslistes = []
 snumoiseauxdepart = snumoiseaux
 
-if multifreq:
-	finboucle = nbre_bases
-	affinbepochs = "0"
-	ecrirelog("calcul des listes par bandes de frequence")
-	# ---------------------------------------------------
-	# ventilation dans les listes par bandes de frequence
-	if nbre_bases == 8:
-		borne = [0.5,0.67,0.91,1.23,1.66,2.24,3.02,4.07,5.49,7.41,10]
-	if nbre_bases == 12:
-		borne = [0.5,0.67,0.91,1.23,1.66,2.24,3.02,3.50,4.07,4.72,5.49,6.38,7.41,8.61,10.0]
-	nbre_bornes = len(borne)
-	nbre_bases = nbre_bornes -3
-	for k in range(0,nbre_bases):
-		leslistes.append([])
-	for f in listima:
-		tabj = f.split(sepa)
-		ltabj = len(tabj)
-		if ltabj > 5:
-			freq = 0
-			try:
-				freq = float(tabj[ltabj-2])/1000
-			except:
-				ecrirelog(f+" : freq = "+tabj[ltabj-2])
-			if freq > 0.5 and freq < 10:
-				ninterv = 0
-				for k in range(2,nbre_bornes):
-					if freq < borne[k]:
-						ibl = k-2
-						break
-			if ibl < 0:
-				ibl = 0
-			if ibl > nbre_bases - 1:
-				ibl = nbre_bases - 1
-			#ecrirelog("ibl="+str(ibl))
-			if ibl>=0 and ibl < nbre_bases:
-				leslistes[ibl].append(f)
-		#else:
-			#ecrirelog(f+" : "+"len(tabj) < 6")
-	# ---------------------------------------------------
-else:
-	finboucle = 1
-	affinbepochs = snbepochs
+finboucle = 1
+affinbepochs = snbepochs
 
 logpred = baseprog + "/txt/predictions_"+ snumcla + "_" + affinbepochs + "_" + snumoiseaux + "_" + affitest + ".csv"
 
@@ -382,20 +340,30 @@ for j in range(0,finboucle):
 	bilanpred = 0.0
 	nbtestsbons = 0
 	debpred = (int)(time.time()*1000)
-	
+	c= 0
+	z = 0
 	for f in listetest:
+		c = c + 1
+		z = z + 1
+		if z==100:
+			print(str(c)+") traitement de "+f)
+			z = 0
+			time.sleep(0.2)
 		tabj = f.split(sepa)
 		ltabj = len(tabj)
-		if ltabj==6 or ltabj ==7 or ltabj ==8:
-			if ltabj ==7 or ltabj == 8:
+		#if ltabj==6 or ltabj ==7 or ltabj ==8:
+		if ltabj==6 or ltabj ==8 or ltabj==9 or ltabj ==11:
+			if ltabj ==8 or ltabj == 11:
+				araj = 2
 				classe_attendue = tabj[0]
 				if not classe_attendue in labels:
 					ecrirelog(classe_attendue+" pas dans labels")
 					continue
 			else:
+				araj = 0
 				classe_attendue = ""
-			numcri=tabj[ltabj-5].replace(".jpg","")
-			bon,confiance = predict(repima+"/"+f,classe_attendue,tabj[ltabj-6],numcri,logpred)
+			numcri=tabj[araj+1]
+			bon,confiance = predict(repima+"/"+f,classe_attendue,tabj[araj],numcri,logpred)
 			nbpreds = nbpreds + 1
 			if not classe_attendue == "":
 				nbtestsbons = nbtestsbons + bon
@@ -405,7 +373,7 @@ for j in range(0,finboucle):
 		else:
 			ecrirelog("format du fichier "+f+" non reconnu")
 			continue
-		time.sleep(0.01)
+		time.sleep(0.08)
 	if nbpreds < 1 and not multifreq:
 		ecrirelog("aucune prediction effectuee")
 		if multifreq:
@@ -603,6 +571,9 @@ for esp in tabokesp[0]:
 		for l in range(0,4):
 			ligne = ligne + sc + str(tok[l])
 			t4[l] = t4[l] + tok[l]
+			
+		ligne = ligne + sc + sc + str(tabokesp[1][esp]) + sc + str(nlig)
+
 		ecrirelog("phase 2 ecriture ligne bilan : "+ligne+" pour esp : "+esp)
 		with open(logbilan, 'a+') as fbil:
 			if nesp == 1:
@@ -808,6 +779,8 @@ if len(tcor) > 0:
 				for l in range(0,4):
 					ligne = ligne + sc + str(tok[l])
 					t4[l] = t4[l] + tok[l]
+				ligne = ligne + sc + sc + str(tabokesp[1][esp]) + sc + str(nlig)
+					
 				with open(logbilan3, 'a+') as fbil:
 					if nesp == 1:
 						fbil.write(lentetebil+"\n")
@@ -1099,6 +1072,8 @@ if FAIREPHASE4:
 			for l in range(0,4):
 				ligne = ligne + sc + str(tok[l])
 				t4[l] = t4[l] + tok[l]
+			ligne = ligne + sc + sc + str(tabokesp[1][esp]) + sc + str(nlig)
+
 			with open(logbilan4, 'a+') as fbil:
 				if nesp == 1:
 					fbil.write(lentetebil+"\n")
@@ -1130,6 +1105,8 @@ if FAIREPHASE4:
 			for l in range(0,4):
 				ligne = ligne + sc + str(tok[l])
 				t4[l] = t4[l] + tok[l]
+			ligne = ligne + sc + sc + str(tabok15[1][esp]) + sc + str(nlig)
+				
 			with open(logbilan5, 'a+') as fbil:
 				if nesp == 1:
 					fbil.write(lentetebil+"\n")
@@ -1332,9 +1309,12 @@ if len(tcor2) > 0:
 				for l in range(0,4):
 					ligne = ligne + sc + str(tok[l])
 					t4[l] = t4[l] + tok[l]
+				ligne = ligne + sc + sc + str(tabokesp[1][esp]) + sc + str(nlig)
+					
 				with open(logbilan6, 'a+') as fbil:
 					if nesp == 1:
 						fbil.write(lentetebil+"\n")
+					ligne = ligne + sc + sc + str(tabokesp[1][esp]) + sc + str(nlig)
 					ecrirelog("phase 6) ecriture ligne bilan : "+ligne+" pour esp : "+esp)
 					fbil.write(ligne+"\n")
 		if nesp > 0:

@@ -5,10 +5,10 @@ Dir=commandArgs(trailingOnly = T) #take the argument of Rscript command as the i
 
 #Dir="C:/Users/yvesb/Downloads/GSampleV3_Part1/PourElodie230102"
 #Dir="C:/Users/yvesb/Documents/Tadarida/Pablo/annotations230222"
-#Dir="C:/Users/yvesb/Documents/Tadarida/Elodie/annotations"
+Dir="C:/Users/yvesb/Documents/Tadarida/Elodie/Mars2023_2"
+Dir="D:/PSIBIOM"
 
-
-FilesWav=list.files(Dir,pattern=".wav$",full.names=T)
+FilesWav=list.files(Dir,pattern=".wav$",full.names=T,recursive=T)
 
 MarkerPsibiomFormat=gsub(".wav",".txt",FilesWav)
 #MarkerTadariDeep=list.files(Dir,pattern="_tdauda.txt$",full.names=T)
@@ -17,8 +17,8 @@ Datalist=list()
 for (i in 1:length(MarkerPsibiomFormat)){
   if(file.exists(MarkerPsibiomFormat[i])){
     Datai=read.audacity(MarkerPsibiomFormat[i])
-    hist(Datai$f1)
-    hist(Datai$f2)
+    #hist(Datai$f1)
+    #hist(Datai$f2)
     LabelInfo=tstrsplit(Datai$label,split=" ")
     if(length(LabelInfo)<2){
       Datai$class=LabelInfo[[1]]
@@ -49,7 +49,24 @@ for (i in 1:length(MarkerPsibiomFormat)){
     Datalist[[i]]=Datai
   }
 }
+Datal0=list()
+DataFmissing=list()
+for (j in 1:length(Datalist)){
+  if(!is.null(Datalist[[j]])){
+  if(ncol(Datalist[[j]])==9){
+    Datal0[[j]]=Datalist[[j]]
+   print(j) 
+  }else{
+  DataFmissing[[j]]=Datalist[[j]]  
+  }
+  }
+}
+
+Datalist=Datal0
+
 DataAll=rbindlist(Datalist)
+DataAllFmissing=rbindlist(DataFmissing)
+fwrite(DataAllFmissing,"DataAllFmissing.csv",sep=";")
 table(DataAll$class)
 table(DataAll$confiance)
 DataToCheck1=subset(DataAll,DataAll$confiance==0)
