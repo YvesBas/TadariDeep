@@ -13,12 +13,10 @@ the folder python_sources/weights contains 2 experimental classifiers:
 
 - 7680-041 : targeting 13 french common urban bird species (moderate performance)
 
-- 11240-085 : targeting common nocturnal french birds (both breeding and migrants), with a rather good performance but still highly perfectible! Probably very bad on amphibians and crickets on which we are waiting for labelled files!
-
-You cans also download a classifier integrating ground crickets and frogs that we are currently testing (too big for Github): https://drive.google.com/file/d/1SE1AeFYsygSlvFpusByke3N9HmSNbqUn/view?usp=sharing
+- 481711 : targeting common nocturnal french birds (both breeding and migrants), with a rather good performance but still highly perfectible! Still very bad during choruses
 
 There were not properly benchmarked against Birdnet but on a few tests, we found that Birdnet performed better on high SNR songs, but less on calls or low SNR songs.
 
-Training data used are mostly Xeno-Canto for birds, MNHN sound library (for crickets and frogs), and the remaining sounds labelled by Stuart Newson (BTO) and me through Tadarida-L
+Training data used are mostly Xeno-Canto for birds, MNHN sound library (for crickets and frogs), and the remaining sounds labelled by Elodie Massol (CESCO), Stuart Newson (BTO) and me through Tadarida-L
 
 Current authors: Didier Bas (main developper) and Yves Bas (mainly involved in design and testing)
