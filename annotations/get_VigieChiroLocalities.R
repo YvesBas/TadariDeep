@@ -7,8 +7,8 @@ library(lubridate)
 mongo=fread("C:/Users/yvesb/Documents/Tadarida/Vigie-Chiro_scripts/Vigie-Chiro_scripts/mongos.txt"
             ,sep="$",h=F)
 test=F #T si base de test, F si base de prod
-FLabels="C:/Users/yvesb/Documents/Tadarida/Elodie/Echantillon1&2_Sonothèque/annotationsToBeChecked.csv"
-FLabels="D:/PSIBIOM/annotationsToBeChecked.csv"
+FLabels="C:/Users/yvesb/Documents/Tadarida/Elodie/Xeno-canto_1/annotationsToBeChecked.csv"
+#FLabels="D:/PSIBIOM/annotationsToBeChecked.csv"
 
 
 
@@ -54,8 +54,15 @@ for (i in 1:nrow(Labels)){
   coordonneesi=subset(sitesi$localites[[1]]$geometries,sitesi$localites[[1]]$nom==pointi)
   
   if(nrow(coordonneesi)==1){
-    Labels$coordonnees[i]=paste0(coordonneesi$geometries[[1]]$coordinates[[1]][1]
-                                 ,",",coordonneesi$geometries[[1]]$coordinates[[1]][2])
+    Labels$coordonnees[i]=paste0("https://www.google.com/maps/place/"
+                                 ,coordonneesi$geometries[[1]]$coordinates[[1]][1]
+                                 ,",",coordonneesi$geometries[[1]]$coordinates[[1]][2],"/@"
+                                 ,coordonneesi$geometries[[1]]$coordinates[[1]][1],","
+                                 ,coordonneesi$geometries[[1]]$coordinates[[1]][2]
+                                 ,",693m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d"
+                                 ,coordonneesi$geometries[[1]]$coordinates[[1]][1]
+                                 ,"!4d",coordonneesi$geometries[[1]]$coordinates[[1]][2]
+                                 )
   }
   
   Infoi=tstrsplit(Labels$file[i],split="_")
@@ -136,4 +143,8 @@ for (i in 1:nrow(annotations_types)){
 }
 table(LabelsPrioritized$prioritaire)
 
+
+
+
+LabelsPrioritized=LabelsPrioritized[order(LabelsPrioritized$nom_fichier,LabelsPrioritized$temps_debut),]
 fwrite(LabelsPrioritized,paste0(dirname(FLabels),"/PourValidation",Sys.Date(),".csv"),sep=";")

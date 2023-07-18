@@ -132,7 +132,7 @@ for (i in 1:length(PredFs)){
     }
   }
   table(substr(MarkersSimplified$`classe predite`,1,6))
-  boxplot(MarkersSimplified$fmin~substr(MarkersSimplified$`classe predite`,1,6),las=2)
+  #boxplot(MarkersSimplified$fmin~substr(MarkersSimplified$`classe predite`,1,6),las=2)
   
   names(MarkersSimplified)=c("label","t1","t2","f1","f2")
   #print("L101")

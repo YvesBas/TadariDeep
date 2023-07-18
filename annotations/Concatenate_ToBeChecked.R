@@ -3,8 +3,8 @@ library(seewave)
 library(tuneR)
 
 
-DirTBC="C:/Users/yvesb/Documents/Tadarida/Elodie/Echantillon1&2_Sonothèque/ToBeChecked"
-DirTBC="D:/PSIBIOM/ToBeChecked"
+DirTBC="C:/Users/yvesb/Documents/Tadarida/Elodie/MaiJuin/ToBeChecked"
+#DirTBC="D:/PSIBIOM/ToBeChecked"
 
 Silence=1
 
@@ -18,7 +18,6 @@ WTBC=WTBC[order(Order)]
 
 SR=vector()
 for (i in 1:length(WTBC)){
-  Time=length(Wall@left)/Wall@samp.rate+Silence
   print(WTBC[i])
   Wi=readWave(WTBC[i])
   print(Wi@samp.rate)

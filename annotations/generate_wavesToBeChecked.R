@@ -4,8 +4,8 @@ library(dplyr)
 library(seewave)
 library(tuneR)
 
-Dir= "C:/Users/yvesb/Documents/Tadarida/Elodie/Echantillon1&2_Sonothèque"
-Dir= "D:/PSIBIOM"
+Dir= "C:/Users/yvesb/Documents/Tadarida/Elodie/Xeno-canto_1"
+#Dir= "D:/PSIBIOM"
 PrePostTrigger=3 #nombre de secondes à ajouter aux chuncks avant-après
 CheckW=T
 

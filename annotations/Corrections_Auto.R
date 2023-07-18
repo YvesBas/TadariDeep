@@ -9,12 +9,11 @@ can_convert_to_numeric <- function(x) {
 
 #DirValid="C:/Users/yvesb/Downloads/"
 #FValid="C:/Users/yvesb/Documents/Tadarida/Pablo/annotations230222/PourValidation230317.xlsx"
-FValid="C:/Users/yvesb/Downloads/Validations_audible (4).xlsx"
+FValid="C:/Users/yvesb/Downloads/Validations_audible (9).xlsx"
 NbOnglets=5
-#DirMarkers="C:/Users/yvesb/Documents/Tadarida/Elodie"
-DirMarkers="C:/Users/yvesb/Documents/Tadarida/Pablo"
-DirMarkers="C:/Users/yvesb/Documents/Tadarida/Pablo"
-DirMarkers="F:/PSIBIOM/Enregistrementsopportunistes"
+DirMarkers="C:/Users/yvesb/Documents/Tadarida/Elodie"
+# DirMarkers="C:/Users/yvesb/Documents/Tadarida/Pablo"
+# DirMarkers="F:/PSIBIOM/Enregistrementsopportunistes"
 HierarchieValid=c("avis_Stanislas_formate","avis_Stanislas","avis_Lucas","avis_Yves")
 #HierarchieValid=c("avis_Lucas","avis_Yves")
 #HierarchieValid=c("avis_Yves")
