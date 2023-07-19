@@ -1,0 +1,5334 @@
+Lancement Detec : 16:04:39:556
+Detec passe ici 1 
+Detec passe ici 2 
+Detec _wavPath = ../io_examples
+Detec _imagePath = ../io_examples\ima
+creation de repima = ../io_examples\ima
+Detec passe ici 3 
+detec : deepmode = true
+creation de repima2 = ../io_examples\ima2
+detec->IThread=0
+LINWIN =  1
+VERQT =  5
+_timeExpansion = 1
+_wathPath=../io_examples     _txtPath=../io_examples/txt
+dtt modefreq=2
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071732_000.wav :  r:../io_examples   -   16:04:39:566
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071732_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+End:16:04:39:723
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071748_000.wav :  r:../io_examples   -   16:04:39:723
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2831
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071748_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2831  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 210
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 210
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 210
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071748_000--0--2328--157--3445--0--516--6546--213.png
+dcdi debut - callnumber=1
+dcdi ima width = 2831  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 94
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 94
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 94
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071748_000--1--1406--74--4478--179--1378--6373--225.png
+dcdi debut - callnumber=2
+dcdi ima width = 2831  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 177
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 177
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 177
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071748_000--2--2453--136--3445--289--1722--5684--124.png
+dcdi debut - callnumber=3
+frequence du point maitre hors limites ! MpHz=19810
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+End:16:04:39:943
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071804_000.wav :  r:../io_examples   -   16:04:39:943
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071804_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+End:16:04:40:099
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071815_000.wav :  r:../io_examples   -   16:04:40:100
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071815_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:40:257
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071822_000.wav :  r:../io_examples   -   16:04:40:257
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071822_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 60
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 60
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 60
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071822_000--1--635--47--3962--1562--3617--4651--783.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:40:442
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071828_000.wav :  r:../io_examples   -   16:04:40:442
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2758
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071828_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+End:16:04:40:597
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071836_000.wav :  r:../io_examples   -   16:04:40:597
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071836_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+End:16:04:40:754
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071847_000.wav :  r:../io_examples   -   16:04:40:754
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071847_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071847_000--1--690--27--3617--509--2756--4995--243.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+End:16:04:40:954
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000.wav :  r:../io_examples   -   16:04:40:954
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3105
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=13436
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=13
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=14
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=15
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=16
+dcdi ima width = 3105  lyi = 128
+dcdi milieu - callnumber = 16
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 21
+dcdi suite 1 - callnumber = 16
+dcdi suite 2 - callnumber = 16
+dcdi suite 3 - callnumber = 16
+dcdi suite 4 - callnumber = 16
+dcdi proche fin16
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000--16--805--18--6029--1111--5340--6373--326.png
+dcdi debut - callnumber=17
+dcdi ima width = 3105  lyi = 128
+dcdi milieu - callnumber = 17
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 17
+dcdi suite 2 - callnumber = 17
+dcdi suite 3 - callnumber = 17
+dcdi suite 4 - callnumber = 17
+dcdi proche fin17
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000--17--752--26--5512--1135--4823--6029--878.png
+dcdi debut - callnumber=18
+dcdi ima width = 3105  lyi = 128
+dcdi milieu - callnumber = 18
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 39
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 39
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 39
+dcdi suite 1 - callnumber = 18
+dcdi suite 2 - callnumber = 18
+dcdi suite 3 - callnumber = 18
+dcdi suite 4 - callnumber = 18
+dcdi proche fin18
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000--18--807--31--3962--1272--3445--4478--233.png
+dcdi debut - callnumber=19
+dcdi ima width = 3105  lyi = 128
+dcdi milieu - callnumber = 19
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 80
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 80
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 80
+dcdi suite 1 - callnumber = 19
+dcdi suite 2 - callnumber = 19
+dcdi suite 3 - callnumber = 19
+dcdi suite 4 - callnumber = 19
+dcdi proche fin19
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000--19--1125--58--5512--1453--4995--6029--635.png
+dcdi debut - callnumber=20
+dcdi ima width = 3105  lyi = 128
+dcdi milieu - callnumber = 20
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 20
+dcdi suite 2 - callnumber = 20
+dcdi suite 3 - callnumber = 20
+dcdi suite 4 - callnumber = 20
+dcdi proche fin20
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071905_000--20--749--23--3962--1618--3445--4306--469.png
+dcdi debut - callnumber=21
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=22
+duree trop courte - image ima2 non enregistree !
+End:16:04:41:246
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071917_000.wav :  r:../io_examples   -   16:04:41:246
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_071917_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+End:16:04:41:417
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000.wav :  r:../io_examples   -   16:04:41:417
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3976
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 45
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 45
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 45
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--1--892--40--5340--601--4651--6890--850.png
+dcdi debut - callnumber=2
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 31
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 31
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 31
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--2--842--23--6546--667--4306--7751--602.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 74
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 74
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 74
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--4--969--59--6201--864--1378--6890--957.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 277
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 277
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 277
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--6--1061--202--3617--919--516--14642--330.png
+dcdi debut - callnumber=7
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--7--617--9--8613--920--7924--10852--107.png
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 8
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 8
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--9--650--9--2067--1414--1033--2411--892.png
+dcdi debut - callnumber=10
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 63
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 63
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 63
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--10--1066--45--8613--1578--4306--13436--570.png
+dcdi debut - callnumber=11
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 11
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--11--675--18--1722--1581--861--2411--500.png
+dcdi debut - callnumber=12
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--12--618--17--2067--1604--1205--2583--259.png
+dcdi debut - callnumber=13
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 53
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--13--780--45--9130--1629--6546--12575--507.png
+dcdi debut - callnumber=14
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 28
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--14--802--27--2067--1634--861--7062--653.png
+dcdi debut - callnumber=15
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 15
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 15
+dcdi suite 2 - callnumber = 15
+dcdi suite 3 - callnumber = 15
+dcdi suite 4 - callnumber = 15
+dcdi proche fin15
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--15--738--9--9646--2162--8957--10163--678.png
+dcdi debut - callnumber=16
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 16
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 16
+dcdi suite 1 - callnumber = 16
+dcdi suite 2 - callnumber = 16
+dcdi suite 3 - callnumber = 16
+dcdi suite 4 - callnumber = 16
+dcdi proche fin16
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--16--638--19--7579--2163--6201--8268--53.png
+dcdi debut - callnumber=17
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 17
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 449
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 449
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 449
+dcdi suite 1 - callnumber = 17
+dcdi suite 2 - callnumber = 17
+dcdi suite 3 - callnumber = 17
+dcdi suite 4 - callnumber = 17
+dcdi proche fin17
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--17--1086--329--4995--2184--689--13608--510.png
+dcdi debut - callnumber=18
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 18
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 109
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 109
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 109
+dcdi suite 1 - callnumber = 18
+dcdi suite 2 - callnumber = 18
+dcdi suite 3 - callnumber = 18
+dcdi suite 4 - callnumber = 18
+dcdi proche fin18
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--18--934--92--3445--2517--689--7235--628.png
+dcdi debut - callnumber=19
+dcdi ima width = 3976  lyi = 128
+dcdi milieu - callnumber = 19
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 19
+dcdi suite 2 - callnumber = 19
+dcdi suite 3 - callnumber = 19
+dcdi suite 4 - callnumber = 19
+dcdi proche fin19
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072001_000--19--605--20--3445--2610--689--4306--258.png
+dcdi debut - callnumber=20
+duree trop courte - image ima2 non enregistree !
+End:16:04:41:885
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000.wav :  r:../io_examples   -   16:04:41:885
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3158
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--0--1225--33--5684--0--1894--7579--265.png
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--2--655--13--8613--137--7751--9302--725.png
+dcdi debut - callnumber=3
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--3--1306--19--5684--137--1550--7924--517.png
+dcdi debut - callnumber=4
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 32
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--4--1215--28--2756--288--1205--10852--362.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 56
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 56
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 56
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--8--733--55--3273--627--2411--5340--544.png
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 127
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 127
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 127
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--10--1000--114--6029--705--2067--10852--638.png
+dcdi debut - callnumber=11
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 177
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 177
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 177
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--11--1030--147--3789--796--1205--9646--772.png
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=13
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 68
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 68
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 68
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--13--1085--62--6201--965--2067--9646--729.png
+dcdi debut - callnumber=14
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--14--893--15--3273--1048--2756--3962--931.png
+dcdi debut - callnumber=15
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 15
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 44
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 44
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 44
+dcdi suite 1 - callnumber = 15
+dcdi suite 2 - callnumber = 15
+dcdi suite 3 - callnumber = 15
+dcdi suite 4 - callnumber = 15
+dcdi proche fin15
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--15--718--34--6201--1051--4478--9819--343.png
+dcdi debut - callnumber=16
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 16
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 37
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 37
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 37
+dcdi suite 1 - callnumber = 16
+dcdi suite 2 - callnumber = 16
+dcdi suite 3 - callnumber = 16
+dcdi suite 4 - callnumber = 16
+dcdi proche fin16
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--16--768--34--6029--1079--4134--9819--683.png
+dcdi debut - callnumber=17
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 17
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 489
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 489
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 489
+dcdi suite 1 - callnumber = 17
+dcdi suite 2 - callnumber = 17
+dcdi suite 3 - callnumber = 17
+dcdi suite 4 - callnumber = 17
+dcdi proche fin17
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--17--1374--393--3273--1117--1205--11024--814.png
+dcdi debut - callnumber=18
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 18
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 18
+dcdi suite 2 - callnumber = 18
+dcdi suite 3 - callnumber = 18
+dcdi suite 4 - callnumber = 18
+dcdi proche fin18
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--18--626--23--6029--1148--4995--10680--779.png
+dcdi debut - callnumber=19
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=20
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=21
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=22
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=23
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 23
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 23
+dcdi suite 2 - callnumber = 23
+dcdi suite 3 - callnumber = 23
+dcdi suite 4 - callnumber = 23
+dcdi proche fin23
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--23--864--14--3273--1548--2583--4651--738.png
+dcdi debut - callnumber=24
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 24
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 24
+dcdi suite 2 - callnumber = 24
+dcdi suite 3 - callnumber = 24
+dcdi suite 4 - callnumber = 24
+dcdi proche fin24
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--24--701--15--4134--1568--2756--4823--65.png
+dcdi debut - callnumber=25
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=26
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 26
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 28
+dcdi suite 1 - callnumber = 26
+dcdi suite 2 - callnumber = 26
+dcdi suite 3 - callnumber = 26
+dcdi suite 4 - callnumber = 26
+dcdi proche fin26
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--26--882--26--3273--1680--2067--6201--418.png
+dcdi debut - callnumber=27
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 27
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 27
+dcdi suite 2 - callnumber = 27
+dcdi suite 3 - callnumber = 27
+dcdi suite 4 - callnumber = 27
+dcdi proche fin27
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--27--1110--29--3100--1711--2067--5684--719.png
+dcdi debut - callnumber=28
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 28
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 28
+dcdi suite 2 - callnumber = 28
+dcdi suite 3 - callnumber = 28
+dcdi suite 4 - callnumber = 28
+dcdi proche fin28
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--28--620--10--6029--1737--5167--6890--656.png
+dcdi debut - callnumber=29
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 29
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 21
+dcdi suite 1 - callnumber = 29
+dcdi suite 2 - callnumber = 29
+dcdi suite 3 - callnumber = 29
+dcdi suite 4 - callnumber = 29
+dcdi proche fin29
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--29--1102--15--3273--1741--1894--3789--108.png
+dcdi debut - callnumber=30
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 30
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 30
+dcdi suite 2 - callnumber = 30
+dcdi suite 3 - callnumber = 30
+dcdi suite 4 - callnumber = 30
+dcdi proche fin30
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--30--697--15--3100--1761--1722--3617--113.png
+dcdi debut - callnumber=31
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=32
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 32
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 25
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 25
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 25
+dcdi suite 1 - callnumber = 32
+dcdi suite 2 - callnumber = 32
+dcdi suite 3 - callnumber = 32
+dcdi suite 4 - callnumber = 32
+dcdi proche fin32
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--32--918--24--3273--1829--2756--6890--214.png
+dcdi debut - callnumber=33
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=34
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=35
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=36
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 36
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 36
+dcdi suite 2 - callnumber = 36
+dcdi suite 3 - callnumber = 36
+dcdi suite 4 - callnumber = 36
+dcdi proche fin36
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--36--638--15--3273--1894--2756--4134--68.png
+dcdi debut - callnumber=37
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 37
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 9
+dcdi suite 1 - callnumber = 37
+dcdi suite 2 - callnumber = 37
+dcdi suite 3 - callnumber = 37
+dcdi suite 4 - callnumber = 37
+dcdi proche fin37
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--37--659--10--3273--1920--2583--4134--566.png
+dcdi debut - callnumber=38
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=39
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 39
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 32
+dcdi suite 1 - callnumber = 39
+dcdi suite 2 - callnumber = 39
+dcdi suite 3 - callnumber = 39
+dcdi suite 4 - callnumber = 39
+dcdi proche fin39
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--39--917--23--3617--2046--1894--6373--838.png
+dcdi debut - callnumber=40
+dcdi ima width = 3158  lyi = 128
+dcdi milieu - callnumber = 40
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 256
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 256
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 256
+dcdi suite 1 - callnumber = 40
+dcdi suite 2 - callnumber = 40
+dcdi suite 3 - callnumber = 40
+dcdi suite 4 - callnumber = 40
+dcdi proche fin40
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072043_000--40--1242--216--3273--2073--689--8613--389.png
+dcdi debut - callnumber=41
+duree trop courte - image ima2 non enregistree !
+End:16:04:42:401
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000.wav :  r:../io_examples   -   16:04:42:401
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 5747
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 390
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 390
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 390
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--0--1145--304--3445--0--1205--6373--551.png
+dcdi debut - callnumber=1
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 45
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 45
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 45
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--1--1089--37--4478--306--516--6029--386.png
+dcdi debut - callnumber=2
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--2--655--16--2583--368--1550--3789--104.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 35
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 35
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 35
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--4--693--44--2928--478--1894--5512--515.png
+dcdi debut - callnumber=5
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 11
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--5--876--10--3273--530--2411--4134--93.png
+dcdi debut - callnumber=6
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 25
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 25
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 25
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--6--813--34--2928--547--2411--4306--112.png
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 28
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--8--664--28--2928--605--1894--4651--387.png
+dcdi debut - callnumber=9
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 103
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 103
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 103
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--9--684--98--3100--666--1550--4823--616.png
+dcdi debut - callnumber=10
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 39
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 39
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 39
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--10--663--43--3617--872--1722--4306--909.png
+dcdi debut - callnumber=11
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--11--609--27--3617--917--1550--4134--474.png
+dcdi debut - callnumber=12
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 9
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--12--639--9--3273--949--2239--4651--892.png
+dcdi debut - callnumber=13
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=14
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=15
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=16
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=17
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=18
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 18
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 18
+dcdi suite 2 - callnumber = 18
+dcdi suite 3 - callnumber = 18
+dcdi suite 4 - callnumber = 18
+dcdi proche fin18
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--18--886--15--3273--1753--1894--4651--630.png
+dcdi debut - callnumber=19
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=20
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 20
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 20
+dcdi suite 2 - callnumber = 20
+dcdi suite 3 - callnumber = 20
+dcdi suite 4 - callnumber = 20
+dcdi proche fin20
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--20--749--13--3617--1945--1722--4478--75.png
+dcdi debut - callnumber=21
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 21
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 21
+dcdi suite 1 - callnumber = 21
+dcdi suite 2 - callnumber = 21
+dcdi suite 3 - callnumber = 21
+dcdi suite 4 - callnumber = 21
+dcdi proche fin21
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--21--811--23--2411--2074--1550--4651--409.png
+dcdi debut - callnumber=22
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 22
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 68
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 68
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 68
+dcdi suite 1 - callnumber = 22
+dcdi suite 2 - callnumber = 22
+dcdi suite 3 - callnumber = 22
+dcdi suite 4 - callnumber = 22
+dcdi proche fin22
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--22--1260--55--2411--2127--1378--5340--227.png
+dcdi debut - callnumber=23
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 23
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 21
+dcdi suite 1 - callnumber = 23
+dcdi suite 2 - callnumber = 23
+dcdi suite 3 - callnumber = 23
+dcdi suite 4 - callnumber = 23
+dcdi proche fin23
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--23--737--23--4134--2187--1894--5340--426.png
+dcdi debut - callnumber=24
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=25
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 25
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 33
+dcdi suite 1 - callnumber = 25
+dcdi suite 2 - callnumber = 25
+dcdi suite 3 - callnumber = 25
+dcdi suite 4 - callnumber = 25
+dcdi proche fin25
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--25--910--33--3962--2215--1722--5340--308.png
+dcdi debut - callnumber=26
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=27
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 27
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 312
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 312
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 312
+dcdi suite 1 - callnumber = 27
+dcdi suite 2 - callnumber = 27
+dcdi suite 3 - callnumber = 27
+dcdi suite 4 - callnumber = 27
+dcdi proche fin27
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--27--1242--301--4134--2250--1550--5512--429.png
+dcdi debut - callnumber=28
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 28
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 44
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 44
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 44
+dcdi suite 1 - callnumber = 28
+dcdi suite 2 - callnumber = 28
+dcdi suite 3 - callnumber = 28
+dcdi suite 4 - callnumber = 28
+dcdi proche fin28
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--28--859--44--3617--2555--1894--4995--944.png
+dcdi debut - callnumber=29
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 29
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 25
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 25
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 25
+dcdi suite 1 - callnumber = 29
+dcdi suite 2 - callnumber = 29
+dcdi suite 3 - callnumber = 29
+dcdi suite 4 - callnumber = 29
+dcdi proche fin29
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--29--646--29--3617--2622--2239--5167--158.png
+dcdi debut - callnumber=30
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 30
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 30
+dcdi suite 2 - callnumber = 30
+dcdi suite 3 - callnumber = 30
+dcdi suite 4 - callnumber = 30
+dcdi proche fin30
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--30--610--14--3617--2655--2239--5684--642.png
+dcdi debut - callnumber=31
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 31
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 31
+dcdi suite 2 - callnumber = 31
+dcdi suite 3 - callnumber = 31
+dcdi suite 4 - callnumber = 31
+dcdi proche fin31
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--31--694--34--2928--2767--2239--4823--302.png
+dcdi debut - callnumber=32
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=33
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=34
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=35
+dcdi ima width = 5747  lyi = 128
+dcdi milieu - callnumber = 35
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 35
+dcdi suite 2 - callnumber = 35
+dcdi suite 3 - callnumber = 35
+dcdi suite 4 - callnumber = 35
+dcdi proche fin35
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072051_000--35--776--18--3962--4138--3100--4995--240.png
+dcdi debut - callnumber=36
+duree trop courte - image ima2 non enregistree !
+End:16:04:43:055
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072137_000.wav :  r:../io_examples   -   16:04:43:055
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072137_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:43:210
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072225_000.wav :  r:../io_examples   -   16:04:43:210
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072225_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 86
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 86
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 86
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072225_000--3--774--78--4823--957--2928--5857--848.png
+dcdi debut - callnumber=4
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 31
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 31
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 31
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072225_000--4--735--37--4478--1042--3789--5512--67.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:16:04:43:412
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072234_000.wav :  r:../io_examples   -   16:04:43:412
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2761
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072234_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=20327
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072234_000--2--843--18--4306--117--3789--4995--173.png
+dcdi debut - callnumber=3
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072234_000--3--969--16--4651--142--4134--5167--104.png
+dcdi debut - callnumber=4
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072234_000--4--708--15--5857--1429--5167--6718--934.png
+dcdi debut - callnumber=5
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072234_000--5--678--15--6029--1525--5512--6890--522.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+End:16:04:43:628
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072242_000.wav :  r:../io_examples   -   16:04:43:628
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3133
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072242_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 3133  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 53
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072242_000--5--727--47--4478--1076--3962--5340--186.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+End:16:04:43:830
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072250_000.wav :  r:../io_examples   -   16:04:43:830
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072250_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072250_000--0--693--11--5857--909--4651--6718--88.png
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:44:014
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072257_000.wav :  r:../io_examples   -   16:04:44:014
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2758
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072257_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 46
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072257_000--3--1836--34--4995--1169--2756--6890--489.png
+dcdi debut - callnumber=4
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 79
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 79
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 79
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072257_000--4--2489--60--5167--1239--2411--6201--429.png
+dcdi debut - callnumber=5
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 88
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 88
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 88
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072257_000--5--2455--73--5167--1306--2411--6201--338.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+End:16:04:44:233
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072303_000.wav :  r:../io_examples   -   16:04:44:233
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 5187
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072303_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+frequence du point maitre hors limites ! MpHz=21533
+dcdi debut - callnumber=4
+dcdi ima width = 5187  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 54
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 54
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 54
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072303_000--4--1701--47--4995--842--3100--6029--320.png
+dcdi debut - callnumber=5
+dcdi ima width = 5187  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 84
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 84
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 84
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072303_000--5--2303--63--6029--896--3962--7579--421.png
+dcdi debut - callnumber=6
+dcdi ima width = 5187  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 60
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 60
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 60
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072303_000--6--1737--46--5684--967--2928--6546--546.png
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+End:16:04:44:543
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072315_000.wav :  r:../io_examples   -   16:04:44:543
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2800
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072315_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 2800  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072315_000--2--658--10--6890--305--6373--7235--718.png
+dcdi debut - callnumber=3
+dcdi ima width = 2800  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072315_000--3--774--15--4306--784--2067--5340--543.png
+dcdi debut - callnumber=4
+dcdi ima width = 2800  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072315_000--4--638--19--3617--822--3273--5857--589.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:16:04:44:745
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000.wav :  r:../io_examples   -   16:04:44:745
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2758
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 16
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--1--615--18--3273--135--1722--4134--240.png
+dcdi debut - callnumber=2
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 51
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 51
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 51
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--2--906--39--6546--663--5167--7579--500.png
+dcdi debut - callnumber=3
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 40
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--3--1006--34--6373--892--5684--7062--418.png
+dcdi debut - callnumber=4
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--4--699--13--5167--980--4651--5684--289.png
+dcdi debut - callnumber=5
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 37
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 37
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 37
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--5--1153--31--6546--1280--6029--7579--215.png
+dcdi debut - callnumber=6
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--6--640--9--6546--1317--6029--7407--321.png
+dcdi debut - callnumber=7
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--7--927--23--6890--1436--6029--8785--602.png
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--9--934--24--5857--1534--4823--7924--614.png
+dcdi debut - callnumber=10
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 44
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 44
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 44
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--10--1102--35--6890--1679--4306--7751--170.png
+dcdi debut - callnumber=11
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072330_000--11--1013--19--6373--1854--5857--7235--303.png
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+End:16:04:45:040
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000.wav :  r:../io_examples   -   16:04:45:040
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2758
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--0--790--9--6890--0--6029--7235--321.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 19
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 19
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--1--673--15--7751--311--5167--8613--413.png
+dcdi debut - callnumber=2
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--2--965--17--8096--388--7407--8441--180.png
+dcdi debut - callnumber=3
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 11
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--3--644--9--8096--410--7579--8268--821.png
+dcdi debut - callnumber=4
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 46
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--4--1355--41--7062--474--6201--7751--370.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 33
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--6--936--28--6373--534--6029--7407--512.png
+dcdi debut - callnumber=7
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 52
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 52
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 52
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--7--1470--39--7062--567--6201--7751--419.png
+dcdi debut - callnumber=8
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 57
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 57
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 57
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--8--1195--52--6718--710--5512--7579--308.png
+dcdi debut - callnumber=9
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 55
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 55
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 55
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--9--1191--42--5167--804--3273--5857--584.png
+dcdi debut - callnumber=10
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 49
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--10--1304--39--7062--854--3445--8957--508.png
+dcdi debut - callnumber=11
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 42
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--11--1295--31--5167--938--3789--5684--366.png
+dcdi debut - callnumber=12
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 53
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--12--1555--45--7062--975--5857--7751--273.png
+dcdi debut - callnumber=13
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 43
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 43
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 43
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--13--727--44--4478--1036--2928--4823--685.png
+dcdi debut - callnumber=14
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 16
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--14--662--18--6029--1068--5684--6890--759.png
+dcdi debut - callnumber=15
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 15
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 15
+dcdi suite 2 - callnumber = 15
+dcdi suite 3 - callnumber = 15
+dcdi suite 4 - callnumber = 15
+dcdi proche fin15
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--15--607--10--5167--1089--4134--5512--500.png
+dcdi debut - callnumber=16
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 16
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 36
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 36
+dcdi suite 1 - callnumber = 16
+dcdi suite 2 - callnumber = 16
+dcdi suite 3 - callnumber = 16
+dcdi suite 4 - callnumber = 16
+dcdi proche fin16
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--16--1017--29--6201--1156--3962--7062--280.png
+dcdi debut - callnumber=17
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=18
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=19
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 19
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 19
+dcdi suite 2 - callnumber = 19
+dcdi suite 3 - callnumber = 19
+dcdi suite 4 - callnumber = 19
+dcdi proche fin19
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--19--861--18--7062--1321--6373--7579--519.png
+dcdi debut - callnumber=20
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 20
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 16
+dcdi suite 1 - callnumber = 20
+dcdi suite 2 - callnumber = 20
+dcdi suite 3 - callnumber = 20
+dcdi suite 4 - callnumber = 20
+dcdi proche fin20
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--20--813--13--5167--1473--3445--5684--78.png
+dcdi debut - callnumber=21
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 21
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 21
+dcdi suite 2 - callnumber = 21
+dcdi suite 3 - callnumber = 21
+dcdi suite 4 - callnumber = 21
+dcdi proche fin21
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--21--699--31--6029--1546--4651--7751--511.png
+dcdi debut - callnumber=22
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=23
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 23
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 23
+dcdi suite 2 - callnumber = 23
+dcdi suite 3 - callnumber = 23
+dcdi suite 4 - callnumber = 23
+dcdi proche fin23
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--23--951--18--7235--1650--6546--7751--462.png
+dcdi debut - callnumber=24
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 24
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 49
+dcdi suite 1 - callnumber = 24
+dcdi suite 2 - callnumber = 24
+dcdi suite 3 - callnumber = 24
+dcdi suite 4 - callnumber = 24
+dcdi proche fin24
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--24--1228--42--5167--1676--4478--7579--258.png
+dcdi debut - callnumber=25
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 25
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 25
+dcdi suite 2 - callnumber = 25
+dcdi suite 3 - callnumber = 25
+dcdi suite 4 - callnumber = 25
+dcdi proche fin25
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--25--813--12--8096--1707--7235--8268--472.png
+dcdi debut - callnumber=26
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=27
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 27
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 27
+dcdi suite 2 - callnumber = 27
+dcdi suite 3 - callnumber = 27
+dcdi suite 4 - callnumber = 27
+dcdi proche fin27
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--27--833--14--6890--1806--5684--7235--119.png
+dcdi debut - callnumber=28
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 28
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 46
+dcdi suite 1 - callnumber = 28
+dcdi suite 2 - callnumber = 28
+dcdi suite 3 - callnumber = 28
+dcdi suite 4 - callnumber = 28
+dcdi proche fin28
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--28--1031--43--5167--1854--3962--6890--795.png
+dcdi debut - callnumber=29
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 29
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 29
+dcdi suite 2 - callnumber = 29
+dcdi suite 3 - callnumber = 29
+dcdi suite 4 - callnumber = 29
+dcdi proche fin29
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072342_000--29--861--25--5167--1899--4306--7235--375.png
+dcdi debut - callnumber=30
+duree trop courte - image ima2 non enregistree !
+End:16:04:45:522
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072352_000.wav :  r:../io_examples   -   16:04:45:522
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2993
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072352_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 2993  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 304
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 304
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 304
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072352_000--3--902--237--1378--600--516--3962--477.png
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:16:04:45:724
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072357_000.wav :  r:../io_examples   -   16:04:45:724
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 4500
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072357_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=19121
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+End:16:04:45:954
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072405_000.wav :  r:../io_examples   -   16:04:45:954
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072405_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+End:16:04:46:110
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072432_000.wav :  r:../io_examples   -   16:04:46:110
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2765
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072432_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=13092
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+End:16:04:46:281
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072458_000.wav :  r:../io_examples   -   16:04:46:281
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2758
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072458_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+End:16:04:46:438
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072506_000.wav :  r:../io_examples   -   16:04:46:438
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2771
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072506_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=21360
+dcdi debut - callnumber=1
+dcdi ima width = 2771  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072506_000--1--934--15--6890--0--4134--10852--456.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:46:625
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072529_000.wav :  r:../io_examples   -   16:04:46:626
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2761
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072529_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+End:16:04:46:781
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000.wav :  r:../io_examples   -   16:04:46:781
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2758
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 52
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 52
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 52
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--0--1025--40--4995--358--3273--6890--710.png
+dcdi debut - callnumber=1
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--1--1028--22--4651--415--3273--6546--296.png
+dcdi debut - callnumber=2
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--2--1111--21--4995--507--3100--6373--316.png
+dcdi debut - callnumber=3
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--3--926--21--4134--554--3617--6201--83.png
+dcdi debut - callnumber=4
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 32
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--4--1032--22--4995--644--3273--6718--265.png
+dcdi debut - callnumber=5
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--5--1103--18--4995--684--2067--6373--314.png
+dcdi debut - callnumber=6
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 32
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--6--1189--22--4651--772--2928--6718--296.png
+dcdi debut - callnumber=7
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--7--1244--18--4651--825--3445--6546--351.png
+dcdi debut - callnumber=8
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--8--1121--21--4651--917--3273--6373--306.png
+dcdi debut - callnumber=9
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--9--958--18--4651--966--3445--6718--557.png
+dcdi debut - callnumber=10
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 32
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--10--1173--26--4651--1052--3273--6546--283.png
+dcdi debut - callnumber=11
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 28
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--11--902--19--4995--1102--3445--6373--303.png
+dcdi debut - callnumber=12
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--12--1048--22--4995--1198--3273--6029--359.png
+dcdi debut - callnumber=13
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--13--951--22--4651--1272--2928--6546--296.png
+dcdi debut - callnumber=14
+dcdi ima width = 2758  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072550_000--14--949--18--4306--1366--3789--6718--92.png
+dcdi debut - callnumber=15
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=16
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=17
+duree trop courte - image ima2 non enregistree !
+End:16:04:47:155
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072558_000.wav :  r:../io_examples   -   16:04:47:155
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072558_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+End:16:04:47:310
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072604_000.wav :  r:../io_examples   -   16:04:47:310
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2763
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072604_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=20155
+dcdi debut - callnumber=1
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072604_000--1--850--18--6718--711--6373--7235--462.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:47:512
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072614_000.wav :  r:../io_examples   -   16:04:47:512
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2761
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072614_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=18432
+dcdi debut - callnumber=1
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072614_000--1--640--14--4651--1421--4306--5167--547.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:47:702
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000.wav :  r:../io_examples   -   16:04:47:702
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 5384
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 83
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 83
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 83
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--1--953--61--2411--224--1722--6373--703.png
+dcdi debut - callnumber=2
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 49
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 49
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--2--1468--35--2239--293--1205--6718--689.png
+dcdi debut - callnumber=3
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 53
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 53
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--3--1484--38--2411--337--1205--7579--824.png
+dcdi debut - callnumber=4
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 58
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 58
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 58
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--4--1739--46--2411--380--1378--6718--746.png
+dcdi debut - callnumber=5
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 58
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 58
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 58
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--5--1474--41--3789--432--1550--7062--284.png
+dcdi debut - callnumber=6
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 129
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 129
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 129
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--6--1590--97--2411--479--1550--6718--292.png
+dcdi debut - callnumber=7
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 339
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 339
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 339
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--7--1807--256--3789--584--1378--7407--223.png
+dcdi debut - callnumber=8
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 91
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 91
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 91
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--8--1614--68--3789--843--1378--7579--142.png
+dcdi debut - callnumber=9
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 34
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--9--1433--25--3273--915--1378--7579--291.png
+dcdi debut - callnumber=10
+dcdi ima width = 5384  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 30
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 30
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072623_000--10--990--28--3789--944--1550--4478--312.png
+dcdi debut - callnumber=11
+frequence du point maitre hors limites ! MpHz=19293
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=13
+duree trop courte - image ima2 non enregistree !
+End:16:04:48:137
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072631_000.wav :  r:../io_examples   -   16:04:48:137
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 4182
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072631_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 4182  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 15
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 15
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072631_000--0--685--10--2239--0--1894--3962--531.png
+dcdi debut - callnumber=1
+dcdi ima width = 4182  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 184
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 184
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 184
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072631_000--1--827--158--2239--15--1722--4651--97.png
+dcdi debut - callnumber=2
+dcdi ima width = 4182  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072631_000--2--643--22--6201--296--5512--6890--515.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 4182  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 555
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 555
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 555
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072631_000--5--1057--469--2928--885--1378--8785--201.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+frequence du point maitre hors limites ! MpHz=21016
+dcdi debut - callnumber=11
+frequence du point maitre hors limites ! MpHz=12919
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+End:16:04:48:417
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000.wav :  r:../io_examples   -   16:04:48:417
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2910
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 41
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 41
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 41
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--0--990--35--8096--1--6201--8785--529.png
+dcdi debut - callnumber=1
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 18
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 18
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--1--612--18--7751--42--7235--9130--96.png
+dcdi debut - callnumber=2
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 112
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 112
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 112
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--2--1309--91--6029--89--4134--9302--822.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--5--608--10--5857--193--5512--6373--593.png
+dcdi debut - callnumber=6
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 105
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 105
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 105
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--6--1324--81--7062--226--4823--9474--127.png
+dcdi debut - callnumber=7
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 144
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 144
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 144
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--7--1425--108--8096--306--6546--8957--36.png
+dcdi debut - callnumber=8
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 47
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 47
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 47
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--8--729--34--3962--370--3100--4306--531.png
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 134
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 134
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 134
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--11--1860--105--8268--469--4306--8957--667.png
+dcdi debut - callnumber=12
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 102
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 102
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 102
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--12--1864--84--7751--580--6373--9130--602.png
+dcdi debut - callnumber=13
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 287
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 287
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 287
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--13--1886--212--8096--673--4651--8613--818.png
+dcdi debut - callnumber=14
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 14
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 14
+dcdi suite 2 - callnumber = 14
+dcdi suite 3 - callnumber = 14
+dcdi suite 4 - callnumber = 14
+dcdi proche fin14
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--14--769--10--5340--682--4478--6029--343.png
+dcdi debut - callnumber=15
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 15
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 28
+dcdi suite 1 - callnumber = 15
+dcdi suite 2 - callnumber = 15
+dcdi suite 3 - callnumber = 15
+dcdi suite 4 - callnumber = 15
+dcdi proche fin15
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--15--928--23--7235--891--4995--8268--742.png
+dcdi debut - callnumber=16
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 16
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 168
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 168
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 168
+dcdi suite 1 - callnumber = 16
+dcdi suite 2 - callnumber = 16
+dcdi suite 3 - callnumber = 16
+dcdi suite 4 - callnumber = 16
+dcdi proche fin16
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--16--2076--134--6718--915--3962--7751--286.png
+dcdi debut - callnumber=17
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=18
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=19
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 19
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 116
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 116
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 116
+dcdi suite 1 - callnumber = 19
+dcdi suite 2 - callnumber = 19
+dcdi suite 3 - callnumber = 19
+dcdi suite 4 - callnumber = 19
+dcdi proche fin19
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--19--1807--86--7062--1058--5857--8613--637.png
+dcdi debut - callnumber=20
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=21
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 21
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 87
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 87
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 87
+dcdi suite 1 - callnumber = 21
+dcdi suite 2 - callnumber = 21
+dcdi suite 3 - callnumber = 21
+dcdi suite 4 - callnumber = 21
+dcdi proche fin21
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--21--1118--64--6373--1162--3100--7751--716.png
+dcdi debut - callnumber=22
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 22
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 22
+dcdi suite 2 - callnumber = 22
+dcdi suite 3 - callnumber = 22
+dcdi suite 4 - callnumber = 22
+dcdi proche fin22
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--22--1066--25--6890--1229--5512--7579--291.png
+dcdi debut - callnumber=23
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 23
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 54
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 54
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 54
+dcdi suite 1 - callnumber = 23
+dcdi suite 2 - callnumber = 23
+dcdi suite 3 - callnumber = 23
+dcdi suite 4 - callnumber = 23
+dcdi proche fin23
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--23--739--47--4651--1263--4134--6029--719.png
+dcdi debut - callnumber=24
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 24
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 28
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 28
+dcdi suite 1 - callnumber = 24
+dcdi suite 2 - callnumber = 24
+dcdi suite 3 - callnumber = 24
+dcdi suite 4 - callnumber = 24
+dcdi proche fin24
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--24--1174--19--7751--1274--7407--8441--875.png
+dcdi debut - callnumber=25
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 25
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 42
+dcdi suite 1 - callnumber = 25
+dcdi suite 2 - callnumber = 25
+dcdi suite 3 - callnumber = 25
+dcdi suite 4 - callnumber = 25
+dcdi proche fin25
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--25--1304--36--8096--1292--7407--9819--617.png
+dcdi debut - callnumber=26
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=27
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 27
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 11
+dcdi suite 1 - callnumber = 27
+dcdi suite 2 - callnumber = 27
+dcdi suite 3 - callnumber = 27
+dcdi suite 4 - callnumber = 27
+dcdi proche fin27
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--27--955--11--7062--1409--6373--7579--441.png
+dcdi debut - callnumber=28
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 28
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 29
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 29
+dcdi suite 1 - callnumber = 28
+dcdi suite 2 - callnumber = 28
+dcdi suite 3 - callnumber = 28
+dcdi suite 4 - callnumber = 28
+dcdi proche fin28
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--28--1119--25--5167--1439--4306--5857--430.png
+dcdi debut - callnumber=29
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 29
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 16
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 16
+dcdi suite 1 - callnumber = 29
+dcdi suite 2 - callnumber = 29
+dcdi suite 3 - callnumber = 29
+dcdi suite 4 - callnumber = 29
+dcdi proche fin29
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--29--773--10--7062--1470--6546--8096--156.png
+dcdi debut - callnumber=30
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 30
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 20
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 20
+dcdi suite 1 - callnumber = 30
+dcdi suite 2 - callnumber = 30
+dcdi suite 3 - callnumber = 30
+dcdi suite 4 - callnumber = 30
+dcdi proche fin30
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--30--707--14--5167--1486--4306--7924--547.png
+dcdi debut - callnumber=31
+dcdi ima width = 2910  lyi = 128
+dcdi milieu - callnumber = 31
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 40
+dcdi suite 1 - callnumber = 31
+dcdi suite 2 - callnumber = 31
+dcdi suite 3 - callnumber = 31
+dcdi suite 4 - callnumber = 31
+dcdi proche fin31
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072640_000--31--1602--28--6718--1547--4823--7407--562.png
+dcdi debut - callnumber=32
+duree trop courte - image ima2 non enregistree !
+End:16:04:48:929
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000.wav :  r:../io_examples   -   16:04:48:929
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2763
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 90
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 90
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 90
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000--0--2673--67--6373--0--5167--8957--5.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 213
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 213
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 213
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000--1--1968--158--5340--76--3789--8613--602.png
+dcdi debut - callnumber=2
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 78
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 78
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 78
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000--2--1918--58--6890--240--3789--8613--734.png
+dcdi debut - callnumber=3
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 32
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 32
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000--3--620--26--7062--302--5340--8441--223.png
+dcdi debut - callnumber=4
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000--4--1011--21--4306--844--3617--4823--816.png
+dcdi debut - callnumber=5
+dcdi ima width = 2763  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 17
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 17
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 17
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072647_000--5--609--13--4306--1611--3445--5167--447.png
+dcdi debut - callnumber=6
+duree trop courte - image ima2 non enregistree !
+End:16:04:49:239
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000.wav :  r:../io_examples   -   16:04:49:239
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3048
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+frequence du point maitre hors limites ! MpHz=19293
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 34
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--5--755--30--7062--606--6718--7579--779.png
+dcdi debut - callnumber=6
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 40
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--6--994--30--5340--655--4651--9474--500.png
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=8
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 108
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 108
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 108
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--8--1280--93--7751--710--6890--8785--496.png
+dcdi debut - callnumber=9
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 144
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 144
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 144
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--9--1903--103--8268--835--4478--8785--690.png
+dcdi debut - callnumber=10
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=11
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 91
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 91
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 91
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--11--1697--70--7924--967--6201--9130--423.png
+dcdi debut - callnumber=12
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 12
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 261
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 261
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 261
+dcdi suite 1 - callnumber = 12
+dcdi suite 2 - callnumber = 12
+dcdi suite 3 - callnumber = 12
+dcdi suite 4 - callnumber = 12
+dcdi proche fin12
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--12--1836--192--6201--1042--4478--9991--577.png
+dcdi debut - callnumber=13
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 13
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 13
+dcdi suite 2 - callnumber = 13
+dcdi suite 3 - callnumber = 13
+dcdi suite 4 - callnumber = 13
+dcdi proche fin13
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--13--844--10--4478--1211--3962--5512--566.png
+dcdi debut - callnumber=14
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=15
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=16
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=17
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 17
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 17
+dcdi suite 2 - callnumber = 17
+dcdi suite 3 - callnumber = 17
+dcdi suite 4 - callnumber = 17
+dcdi proche fin17
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--17--782--14--8268--1285--6718--8613--547.png
+dcdi debut - callnumber=18
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 18
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 169
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 169
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 169
+dcdi suite 1 - callnumber = 18
+dcdi suite 2 - callnumber = 18
+dcdi suite 3 - callnumber = 18
+dcdi suite 4 - callnumber = 18
+dcdi proche fin18
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--18--1814--131--6718--1289--3962--7751--200.png
+dcdi debut - callnumber=19
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 19
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 155
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 155
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 155
+dcdi suite 1 - callnumber = 19
+dcdi suite 2 - callnumber = 19
+dcdi suite 3 - callnumber = 19
+dcdi suite 4 - callnumber = 19
+dcdi proche fin19
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--19--2074--116--7235--1409--3789--8785--531.png
+dcdi debut - callnumber=20
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=21
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 21
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 86
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 86
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 86
+dcdi suite 1 - callnumber = 21
+dcdi suite 2 - callnumber = 21
+dcdi suite 3 - callnumber = 21
+dcdi suite 4 - callnumber = 21
+dcdi proche fin21
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--21--1651--65--6718--1535--3445--8441--225.png
+dcdi debut - callnumber=22
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 22
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 90
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 90
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 90
+dcdi suite 1 - callnumber = 22
+dcdi suite 2 - callnumber = 22
+dcdi suite 3 - callnumber = 22
+dcdi suite 4 - callnumber = 22
+dcdi proche fin22
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--22--1673--74--7924--1601--7062--9991--577.png
+dcdi debut - callnumber=23
+dcdi ima width = 3048  lyi = 128
+dcdi milieu - callnumber = 23
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 56
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 56
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 56
+dcdi suite 1 - callnumber = 23
+dcdi suite 2 - callnumber = 23
+dcdi suite 3 - callnumber = 23
+dcdi suite 4 - callnumber = 23
+dcdi proche fin23
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072652_000--23--1017--43--5340--1610--4134--5857--336.png
+dcdi debut - callnumber=24
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=25
+duree trop courte - image ima2 non enregistree !
+End:16:04:49:736
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000.wav :  r:../io_examples   -   16:04:49:737
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 3770
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--1--968--21--4995--317--4478--6718--216.png
+dcdi debut - callnumber=2
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 24
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 24
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 24
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--2--958--17--4823--398--4306--5340--540.png
+dcdi debut - callnumber=3
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=4
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=5
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 61
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 61
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 61
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--5--792--48--3789--2047--2239--5167--404.png
+dcdi debut - callnumber=6
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 69
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 69
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 69
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--6--817--63--3445--2491--1550--5340--471.png
+dcdi debut - callnumber=7
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 34
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--7--729--29--3789--2567--2411--5167--182.png
+dcdi debut - callnumber=8
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--8--602--31--3789--2614--2928--4478--766.png
+dcdi debut - callnumber=9
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=10
+dcdi ima width = 3770  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 10
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 9
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 10
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072708_000--10--5152--9--6201--2725--0--21877--750.png : point maitre trop pres des bords
+End:16:04:50:172
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072725_000.wav :  r:../io_examples   -   16:04:50:172
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2761
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072725_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+End:16:04:50:406
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072732_000.wav :  r:../io_examples   -   16:04:50:406
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072732_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+End:16:04:50:622
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072738_000.wav :  r:../io_examples   -   16:04:50:622
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2761
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072738_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 11
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 11
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072738_000--1--640--13--4134--185--3617--4823--824.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+End:16:04:50:902
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000.wav :  r:../io_examples   -   16:04:50:902
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 46
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--0--1038--38--5340--0--4651--5857--9.png : point maitre trop pres des bords
+dcdi debut - callnumber=1
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 78
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 78
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 78
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--1--1548--65--5340--35--3445--6201--258.png
+dcdi debut - callnumber=2
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=3
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 26
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 26
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--3--660--21--4823--167--4306--5512--596.png
+dcdi debut - callnumber=4
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 400
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 400
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 400
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--4--2345--312--5857--1482--3962--8268--574.png
+dcdi debut - callnumber=5
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 66
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 66
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 66
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--5--1052--59--4651--1797--3962--6546--463.png
+dcdi debut - callnumber=6
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 40
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 40
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--6--952--34--5167--1885--3617--5857--438.png
+dcdi debut - callnumber=7
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 31
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 31
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 31
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072746_000--7--994--26--4823--1925--4134--5512--175.png
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+End:16:04:51:261
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000.wav :  r:../io_examples   -   16:04:51:261
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2761
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 39
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 39
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 39
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--2--1070--34--4651--915--3273--6373--295.png
+dcdi debut - callnumber=3
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 74
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 74
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 74
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--3--1499--64--5167--957--3445--6201--561.png
+dcdi debut - callnumber=4
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 67
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 67
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 67
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--4--1465--60--5167--1027--3273--7407--558.png
+dcdi debut - callnumber=5
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 7
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 7
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 7
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--5--602--9--5167--1096--4651--5512--464.png
+dcdi debut - callnumber=6
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 92
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 92
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 92
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--6--1488--69--5167--1110--3617--6201--479.png
+dcdi debut - callnumber=7
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 66
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 66
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 66
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--7--1250--55--4651--1191--3789--5857--532.png
+dcdi debut - callnumber=8
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=9
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 21
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 21
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--9--668--18--4134--1298--3273--5512--685.png
+dcdi debut - callnumber=10
+dcdi ima width = 2761  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072753_000--10--683--10--4651--1393--3962--5167--406.png
+dcdi debut - callnumber=11
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+End:16:04:51:725
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000.wav :  r:../io_examples   -   16:04:51:725
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 0
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 12
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 12
+dcdi suite 1 - callnumber = 0
+dcdi suite 2 - callnumber = 0
+dcdi suite 3 - callnumber = 0
+dcdi suite 4 - callnumber = 0
+dcdi proche fin0
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--0--798--10--4995--199--4651--5684--531.png
+dcdi debut - callnumber=1
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 1
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 46
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 46
+dcdi suite 1 - callnumber = 1
+dcdi suite 2 - callnumber = 1
+dcdi suite 3 - callnumber = 1
+dcdi suite 4 - callnumber = 1
+dcdi proche fin1
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--1--847--39--6890--1531--6373--7924--354.png
+dcdi debut - callnumber=2
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--2--1005--17--5684--1607--4995--6201--219.png
+dcdi debut - callnumber=3
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 33
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 33
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--3--1587--25--7751--1647--7062--8957--125.png
+dcdi debut - callnumber=4
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 47
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 47
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 47
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--4--1198--41--8613--1725--7407--9646--646.png
+dcdi debut - callnumber=5
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 5
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 5
+dcdi suite 2 - callnumber = 5
+dcdi suite 3 - callnumber = 5
+dcdi suite 4 - callnumber = 5
+dcdi proche fin5
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--5--1033--23--6373--1739--4995--6718--378.png
+dcdi debut - callnumber=6
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--6--1043--10--7407--1788--5857--8268--281.png
+dcdi debut - callnumber=7
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 7
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 74
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 74
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 74
+dcdi suite 1 - callnumber = 7
+dcdi suite 2 - callnumber = 7
+dcdi suite 3 - callnumber = 7
+dcdi suite 4 - callnumber = 7
+dcdi proche fin7
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--7--2083--56--7407--1807--6201--8096--183.png
+dcdi debut - callnumber=8
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 8
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 13
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 13
+dcdi suite 1 - callnumber = 8
+dcdi suite 2 - callnumber = 8
+dcdi suite 3 - callnumber = 8
+dcdi suite 4 - callnumber = 8
+dcdi proche fin8
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--8--726--10--5512--1830--4651--6029--699.png
+dcdi debut - callnumber=9
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 9
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 42
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 42
+dcdi suite 1 - callnumber = 9
+dcdi suite 2 - callnumber = 9
+dcdi suite 3 - callnumber = 9
+dcdi suite 4 - callnumber = 9
+dcdi proche fin9
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--9--1089--34--7407--1873--5684--9991--71.png
+dcdi debut - callnumber=10
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 10
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 96
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 96
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 96
+dcdi suite 1 - callnumber = 10
+dcdi suite 2 - callnumber = 10
+dcdi suite 3 - callnumber = 10
+dcdi suite 4 - callnumber = 10
+dcdi proche fin10
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--10--2170--70--8613--1909--5167--10335--698.png
+dcdi debut - callnumber=11
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 11
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 22
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 22
+dcdi suite 1 - callnumber = 11
+dcdi suite 2 - callnumber = 11
+dcdi suite 3 - callnumber = 11
+dcdi suite 4 - callnumber = 11
+dcdi proche fin11
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072806_000--11--1078--16--7407--1985--5684--13781--687.png
+dcdi debut - callnumber=12
+duree trop courte - image ima2 non enregistree !
+End:16:04:52:176
+Begin:Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072820_000.wav :  r:../io_examples   -   16:04:52:176
+c:
+g=1.0000000000000000000000
+openwavfile : timexpansion = 1.0900000000000000799361
+openwavfile : coefspe = 1.0900000000000000799361
+sfte=48069.0000000000000000000000
+openwavfile : passe bien ici : _fftHeight = 256
+openwavfile : fftHeight = 256 - iH = 1
+(computefft) TimeExpansion = 1.0900000000000000799361
+(computefft) coefspe = 1.0900000000000000799361
+(computefft) MsPerX = 0.7256235827664399007375
+(computefft) KhzPerY = 0.1722656250000000055511
+cF
+cN
+sD: 
+dp2 msPerX = 0.7256235827664399007375
+dp2 kHzPerY = 0.1722656250000000055511
+dP
+sP
+dci debut 
+dci lyi = 128
+dci _imaWidth = 2760
+lyi=128
+dci _imageFullName = ../io_examples\ima/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072820_000.png
+dci avant enreg image 
+enreg image correct 
+dcdi debut - callnumber=0
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=1
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=2
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 2
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 23
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 23
+dcdi suite 1 - callnumber = 2
+dcdi suite 2 - callnumber = 2
+dcdi suite 3 - callnumber = 2
+dcdi suite 4 - callnumber = 2
+dcdi proche fin2
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072820_000--2--890--18--5340--851--4823--6029--288.png
+dcdi debut - callnumber=3
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 3
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 34
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 34
+dcdi suite 1 - callnumber = 3
+dcdi suite 2 - callnumber = 3
+dcdi suite 3 - callnumber = 3
+dcdi suite 4 - callnumber = 3
+dcdi proche fin3
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072820_000--3--927--24--5340--937--4478--6373--271.png
+dcdi debut - callnumber=4
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 4
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 14
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 14
+dcdi suite 1 - callnumber = 4
+dcdi suite 2 - callnumber = 4
+dcdi suite 3 - callnumber = 4
+dcdi suite 4 - callnumber = 4
+dcdi proche fin4
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072820_000--4--919--9--5167--966--4651--5512--535.png
+dcdi debut - callnumber=5
+duree trop courte - image ima2 non enregistree !
+dcdi debut - callnumber=6
+dcdi ima width = 2760  lyi = 128
+dcdi milieu - callnumber = 6
+dcdi boucle jcrete = 0
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 1
+dcdi boucle crestMat.size = 27
+dcdi boucle jcrete = 2
+dcdi boucle crestMat.size = 27
+dcdi suite 1 - callnumber = 6
+dcdi suite 2 - callnumber = 6
+dcdi suite 3 - callnumber = 6
+dcdi suite 4 - callnumber = 6
+dcdi proche fin6
+callIma2Name=../io_examples\ima2/Car200200-2021-Pass2-Z1-MU201092-S4U04838_20211006_072820_000--6--646--23--4823--1036--3789--5340--287.png
+dcdi debut - callnumber=7
+duree trop courte - image ima2 non enregistree !
+End:16:04:52:502
+End of treatments by Detec object : 16:04:52:506
