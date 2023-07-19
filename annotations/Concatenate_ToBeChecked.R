@@ -3,7 +3,7 @@ library(seewave)
 library(tuneR)
 
 
-DirTBC="C:/Users/yvesb/Documents/Tadarida/Elodie/MaiJuin/ToBeChecked"
+DirTBC="C:/Users/yvesb/Documents/Tadarida/Elodie/Xeno-canto_1/ToBeChecked"
 #DirTBC="D:/PSIBIOM/ToBeChecked"
 
 Silence=1

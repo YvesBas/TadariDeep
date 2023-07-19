@@ -1,0 +1,283 @@
+loadcallmatrices debut
+numver,m_verLog=22,22
+numveruser,m_verUser=2,2
+ nb calls = 80
+ _imaHeight = 128
+m_xmoitie = 0
+m_factory=0.172266
+m_factorx=0.725624
+loadcallmatrices - avant boucle des cris - callsnumbers = 80
+cri 0ecall=6.2longcri=33
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+Alyobs--sonomnhn--sounds_mnhn_so_2016-536_00004_998 : cri 0 recale : ypointm=14xmin,xmax=12,18
+cri 1ecall=10.17longcri=608
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 2ecall=6.42longcri=31
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 3ecall=8.39longcri=18
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 4ecall=6.81longcri=8
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 5ecall=6.51longcri=32
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 6ecall=7.89longcri=93
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 7ecall=7.54longcri=46
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 8ecall=6.74longcri=54
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 9ecall=9.25longcri=130
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 10ecall=8.77longcri=672
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 11ecall=10.25longcri=21
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+Alyobs--sonomnhn--sounds_mnhn_so_2016-536_00004_998 : cri 11 recale : ypointm=36xmin,xmax=962,968
+cri 12ecall=7.42longcri=71
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 13ecall=13.95longcri=220
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+Alyobs--sonomnhn--sounds_mnhn_so_2016-536_00004_998 : cri 13 recale : ypointm=56xmin,xmax=981,996
+cri 14ecall=11.49longcri=166
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 15ecall=9.08longcri=80
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 16ecall=10.81longcri=68
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 17ecall=10.36longcri=242
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 18ecall=9.69longcri=48
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 19ecall=8.2longcri=180
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 20ecall=7.99longcri=50
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 21ecall=9.49longcri=87
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 22ecall=6.15longcri=12
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 23ecall=6.01longcri=17
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 24ecall=10.85longcri=496
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 25ecall=8.7longcri=34
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 26ecall=9.54longcri=86
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 27ecall=7.3longcri=27
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 28ecall=6.91longcri=145
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 29ecall=10.25longcri=93
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 30ecall=10.12longcri=133
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 31ecall=8.29longcri=43
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 32ecall=11.83longcri=187
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+Alyobs--sonomnhn--sounds_mnhn_so_2016-536_00004_998 : cri 32 recale : ypointm=61xmin,xmax=2682,2714
+cri 33ecall=7.09longcri=537
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 34ecall=6.22longcri=6
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 35ecall=6.2longcri=16
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 36ecall=6.91longcri=20
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 37ecall=8.65longcri=64
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 38ecall=6.66longcri=17
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 39ecall=6.72longcri=97
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 40ecall=6.86longcri=36
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 41ecall=7.48longcri=29
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 42ecall=6.17longcri=14
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 43ecall=7.42longcri=206
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 44ecall=7.01longcri=558
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 45ecall=6.08longcri=31
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 46ecall=9.5longcri=96
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 47ecall=11.79longcri=142
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+Alyobs--sonomnhn--sounds_mnhn_so_2016-536_00004_998 : cri 47 recale : ypointm=73xmin,xmax=3874,3892
+cri 48ecall=8.61longcri=75
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 49ecall=12.03longcri=152
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 50ecall=8.22longcri=29
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 51ecall=9.96longcri=98
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 52ecall=6.77longcri=19
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 53ecall=8.15longcri=72
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 54ecall=8.75longcri=99
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 55ecall=6.19longcri=76
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 56ecall=8.03longcri=24
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 57ecall=9.43longcri=34
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 58ecall=7.58longcri=117
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 59ecall=6.55longcri=82
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 60ecall=6.74longcri=94
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 61ecall=15.03longcri=132
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+Alyobs--sonomnhn--sounds_mnhn_so_2016-536_00004_998 : cri 61 recale : ypointm=59xmin,xmax=4841,4851
+cri 62ecall=7.54longcri=26
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 63ecall=10.53longcri=171
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 64ecall=7.12longcri=44
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 65ecall=7.49longcri=25
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 66ecall=6.36longcri=15
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 67ecall=10.69longcri=69
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 68ecall=6.39longcri=66
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 69ecall=8.16longcri=473
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 70ecall=10.24longcri=45
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 71ecall=8.02longcri=43
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 72ecall=6.11longcri=15
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 73ecall=8.69longcri=62
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 74ecall=7.04longcri=49
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 75ecall=6.18longcri=167
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 76ecall=6.03longcri=12
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 77ecall=6.23longcri=7
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 78ecall=6.66longcri=24
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+cri 79ecall=6.31longcri=427
+sessionfinish : multiplesounds = 1
+cas multiplesounds - affectation des variables des cris
+loadcallmatrices vers la fin
+avant appel sortcallarrays
+sortcallarrays6 cris selectionnes
+1) cri 61 intensite= 1502 duree = 9 endname = --61--1502--7--10163--3512--6890--13781--0.jpg
+2) cri 13 intensite= 1394 duree = 14 endname = --13--1394--11--9646--711--3789--11714--0.jpg
+3) cri 49 intensite= 1202 duree = 13 endname = --49--1202--10--6201--3054--2067--9991--0.jpg
+4) cri 79 intensite= 630 duree = 476 endname = --79--630--376--1033--4446--689--2067--0.jpg
+5) cri 78 intensite= 665 duree = 340 endname = --78--665--269--3962--4446--3100--5340--0.jpg
+6) cri 1 intensite= 1017 duree = 102 endname = --1--1017--80--4995--140--172--7062--0.jpg
+withSilence=false
+CreatFenimWindow : cr�ation de PFenimWindow
+end of CreateFenimWindow
+loadLabels - CallsNumber = 80
+loadLabels 2
+loadLabels 3
+loadLabels 4 labelfoldername = C:/Users/yvesb/Documents/Tadarida/test_Tdeep_mismatch_frequency_split2/eti
+loadLabels 4
+loadLabels fin
+_fWl = 1920 et __fWh=1001
+_ WidthRatio = 0.333667 et HeightRatio=3.89375
+PFenim->ImageHeight = 128 et Fenima->height()=128
+SessionFinish 1
+SessionFinish 2
+SessionFinish 3
+ClearFenim debut
+ClearFenim fin
+ClearFenim debut
+ClearFenim fin
