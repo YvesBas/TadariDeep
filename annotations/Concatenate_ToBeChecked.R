@@ -3,9 +3,8 @@ library(seewave)
 library(tuneR)
 
 
-DirTBC="C:/Users/yvesb/Documents/Tadarida/Elodie/Xeno-canto_1/ToBeChecked"
+DirTBC="C:/Users/yvesb/Documents/Tadarida/Elodie/TadariDeep_BirdNet_4/ToBeChecked"
 #DirTBC="D:/PSIBIOM/ToBeChecked"
-
 Silence=1
 
 WTBC=list.files(DirTBC,pattern=".wav$",full.names=T)
@@ -62,3 +61,4 @@ for (h in 1:length(unique(SR))){
   Mall$file=NULL
   write.audacity(Mall,paste0(DirTBC,"/WaveConc_",unique(SR)[h],".txt"))
 }
+
